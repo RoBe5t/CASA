@@ -1,297 +1,297 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/LA1HD.png" group-title="EU | SPAIN",LA 1
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/LA1HD.png" group-title="SPAIN",LA 1
 http://t365.in:900/4802947531/2688022740/165837
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/LA2.png" group-title="EU | SPAIN",LA 2
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/LA2.png" group-title="SPAIN",LA 2
 http://t365.in:900/4802947531/2688022740/165838
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/ANTENA3HD.png" group-title="EU | SPAIN",ANTENA 3
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/ANTENA3HD.png" group-title="SPAIN",ANTENA 3
 http://t365.in:900/4802947531/2688022740/165842
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/LOGO/SPAIN/CUATROHD.png" group-title="EU | SPAIN",CUATRO
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/LOGO/SPAIN/CUATROHD.png" group-title="SPAIN",CUATRO
 http://t365.in:900/4802947531/2688022740/165843
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/LOGO/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN",TELECINCO
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/LOGO/SPAIN/TELECINCOHD.png" group-title="SPAIN",TELECINCO
 http://t365.in:900/4802947531/2688022740/165844
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/LOGO/SPAIN/LASEXTAHD.png" group-title="EU | SPAIN",LA SEXTA
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/LOGO/SPAIN/LASEXTAHD.png" group-title="SPAIN",LA SEXTA
 http://t365.in:900/4802947531/2688022740/165845
-#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="TELEMADRID" tvg-logo="https://lo1.in/LOGO/SPAIN/TELEMADRID.png" group-title="EU | SPAIN",TELEMADRID
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="TELEMADRID" tvg-logo="https://lo1.in/LOGO/SPAIN/TELEMADRID.png" group-title="SPAIN",TELEMADRID
 http://t365.in:900/4802947531/2688022740/5609
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="https://lo1.in/LOGO/SPAIN/BEMAD.png" group-title="EU | SPAIN",BE MAD
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="https://lo1.in/LOGO/SPAIN/BEMAD.png" group-title="SPAIN",BE MAD
 http://t365.in:900/4802947531/2688022740/165881
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="https://lo1.in/LOGO/SPAIN/CANAL24HORAS.png" group-title="EU | SPAIN",CANAL 24 HORAS
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="https://lo1.in/LOGO/SPAIN/CANAL24HORAS.png" group-title="SPAIN",CANAL 24 HORAS
 http://t365.in:900/4802947531/2688022740/165839
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="https://lo1.in/LOGO/SPAIN/ENERGY.png" group-title="EU | SPAIN",ENERGY
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="https://lo1.in/LOGO/SPAIN/ENERGY.png" group-title="SPAIN",ENERGY
 http://t365.in:900/4802947531/2688022740/165880
-#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR A" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSUR.png" group-title="EU | SPAIN",CANAL SUR A
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR A" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSUR.png" group-title="SPAIN",CANAL SUR A
 http://t365.in:900/4802947531/2688022740/165850
-#EXTINF:-1 tvg-id="" tvg-name="I24 FRANCIS" tvg-logo="https://lo1.in/LOGO/SPAIN/I24NEWS.png" group-title="EU | SPAIN",I24 FRANCIS
+#EXTINF:-1 tvg-id="" tvg-name="I24 FRANCIS" tvg-logo="https://lo1.in/LOGO/SPAIN/I24NEWS.png" group-title="SPAIN",I24 FRANCIS
 http://t365.in:900/4802947531/2688022740/165841
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/IBERALIA.png" group-title="EU | SPAIN",IBERALIA TV
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/IBERALIA.png" group-title="SPAIN",IBERALIA TV
 http://t365.in:900/4802947531/2688022740/165898
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="https://lo1.in/LOGO/SPAIN/NEOX.png" group-title="EU | SPAIN",NEOX
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="https://lo1.in/LOGO/SPAIN/NEOX.png" group-title="SPAIN",NEOX
 http://t365.in:900/4802947531/2688022740/165849
-#EXTINF:-1 tvg-id="foxnews.es" tvg-name="FOX NEWS" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXNEWS.png" group-title="EU | SPAIN",FOX NEWS
+#EXTINF:-1 tvg-id="foxnews.es" tvg-name="FOX NEWS" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXNEWS.png" group-title="SPAIN",FOX NEWS
 http://t365.in:900/4802947531/2688022740/165851
-#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="TVE INTERNACIONAL" tvg-logo="https://lo1.in/LOGO/SPAIN/tveinternational.png" group-title="EU | SPAIN",TVE INTERNACIONAL
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="TVE INTERNACIONAL" tvg-logo="https://lo1.in/LOGO/SPAIN/tveinternational.png" group-title="SPAIN",TVE INTERNACIONAL
 http://t365.in:900/4802947531/2688022740/165840
-#EXTINF:-1 tvg-id="telesur.es" tvg-name="TELESUR" tvg-logo="https://lo1.in/LOGO/SPAIN/telesur.png" group-title="EU | SPAIN",TELESUR
+#EXTINF:-1 tvg-id="telesur.es" tvg-name="TELESUR" tvg-logo="https://lo1.in/LOGO/SPAIN/telesur.png" group-title="SPAIN",TELESUR
 http://t365.in:900/4802947531/2688022740/165853
-#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="https://lo1.in/LOGO/SPAIN/M.VHS.png" group-title="EU | SPAIN",MEZZO
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="https://lo1.in/LOGO/SPAIN/M.VHS.png" group-title="SPAIN",MEZZO
 http://t365.in:900/4802947531/2688022740/379055
-#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="https://lo1.in/LOGO/SPAIN/XTRM.png" group-title="EU | SPAIN",XTRM
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="https://lo1.in/LOGO/SPAIN/XTRM.png" group-title="SPAIN",XTRM
 http://t365.in:900/4802947531/2688022740/6141
-#EXTINF:-1 tvg-id="" tvg-name="7 LA RIOJA" tvg-logo="https://lo1.in/LOGO/SPAIN/7LARIOJA.png" group-title="EU | SPAIN",7 LA RIOJA
+#EXTINF:-1 tvg-id="" tvg-name="7 LA RIOJA" tvg-logo="https://lo1.in/LOGO/SPAIN/7LARIOJA.png" group-title="SPAIN",7 LA RIOJA
 http://t365.in:900/4802947531/2688022740/5692
-#EXTINF:-1 tvg-id="" tvg-name="TUYA LA JANDA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/TUYALAJANDA.png" group-title="EU | SPAIN",TUYA LA JANDA TV
+#EXTINF:-1 tvg-id="" tvg-name="TUYA LA JANDA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/TUYALAJANDA.png" group-title="SPAIN",TUYA LA JANDA TV
 http://t365.in:900/4802947531/2688022740/5688
-#EXTINF:-1 tvg-id="" tvg-name="RTV VIDA ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/RTVVIDAESPA%C3%91A.PNG" group-title="EU | SPAIN",RTV VIDA ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-name="RTV VIDA ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/RTVVIDAESPA%C3%91A.PNG" group-title="SPAIN",RTV VIDA ESPAÑA
 http://t365.in:900/4802947531/2688022740/5687
-#EXTINF:-1 tvg-id="" tvg-name="JUNTA CASTILLA Y LEÓN" tvg-logo="https://lo1.in/LOGO/SPAIN/JUNTACASTILLAYLE%C3%93N.PNG" group-title="EU | SPAIN",JUNTA CASTILLA Y LEÓN
+#EXTINF:-1 tvg-id="" tvg-name="JUNTA CASTILLA Y LEÓN" tvg-logo="https://lo1.in/LOGO/SPAIN/JUNTACASTILLAYLE%C3%93N.PNG" group-title="SPAIN",JUNTA CASTILLA Y LEÓN
 http://t365.in:900/4802947531/2688022740/5680
-#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3CAT" tvg-logo="https://lo1.in/LOGO/SPAIN/TV3CAT.png" group-title="EU | SPAIN",TV3CAT
+#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3CAT" tvg-logo="https://lo1.in/LOGO/SPAIN/TV3CAT.png" group-title="SPAIN",TV3CAT
 http://t365.in:900/4802947531/2688022740/5676
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CÁDIZ" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSIERRADEC%C3%81DIZ.png" group-title="EU | SPAIN",CANAL SIERRA DE CÁDIZ
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CÁDIZ" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSIERRADEC%C3%81DIZ.png" group-title="SPAIN",CANAL SIERRA DE CÁDIZ
 http://t365.in:900/4802947531/2688022740/5670
-#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="https://lo1.in/LOGO/SPAIN/MEGAHD.png" group-title="EU | SPAIN",MEGA
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="https://lo1.in/LOGO/SPAIN/MEGAHD.png" group-title="SPAIN",MEGA
 http://t365.in:900/4802947531/2688022740/5633
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESSERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/ATRESSERIES.png" group-title="EU | SPAIN",ATRESSERIES
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESSERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/ATRESSERIES.png" group-title="SPAIN",ATRESSERIES
 http://t365.in:900/4802947531/2688022740/5621
-#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="https://lo1.in/LOGO/SPAIN/BOMCINE.png" group-title="EU | SPAIN",BOM CINE
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="https://lo1.in/LOGO/SPAIN/BOMCINE.png" group-title="SPAIN",BOM CINE
 http://t365.in:900/4802947531/2688022740/5616
-#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="https://lo1.in/LOGO/SPAIN/GALICIA.png" group-title="EU | SPAIN",TV GALICIA
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="https://lo1.in/LOGO/SPAIN/GALICIA.png" group-title="SPAIN",TV GALICIA
 http://t365.in:900/4802947531/2688022740/171234
-#EXTINF:-1 tvg-id="" tvg-name="POPULAR TV" tvg-logo="https://lo1.in/LOGO/SPAIN/POPULARMELILLA.png" group-title="EU | SPAIN",POPULAR TV
+#EXTINF:-1 tvg-id="" tvg-name="POPULAR TV" tvg-logo="https://lo1.in/LOGO/SPAIN/POPULARMELILLA.png" group-title="SPAIN",POPULAR TV
 http://t365.in:900/4802947531/2688022740/6147
-#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN" tvg-logo="https://lo1.in/LOGO/SPAIN/Ten.png" group-title="EU | SPAIN",TEN
+#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN" tvg-logo="https://lo1.in/LOGO/SPAIN/Ten.png" group-title="SPAIN",TEN
 http://t365.in:900/4802947531/2688022740/6144
-#EXTINF:-1 tvg-id="" tvg-name="TVM" tvg-logo="https://lo1.in/LOGO/SPAIN/TVM.png" group-title="EU | SPAIN",TVM
+#EXTINF:-1 tvg-id="" tvg-name="TVM" tvg-logo="https://lo1.in/LOGO/SPAIN/TVM.png" group-title="SPAIN",TVM
 http://t365.in:900/4802947531/2688022740/6143
-#EXTINF:-1 tvg-id="13tv.es" tvg-name="TRECE" tvg-logo="https://lo1.in/LOGO/SPAIN/TRECE.png" group-title="EU | SPAIN",TRECE
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="TRECE" tvg-logo="https://lo1.in/LOGO/SPAIN/TRECE.png" group-title="SPAIN",TRECE
 http://t365.in:900/4802947531/2688022740/6142
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ KIDS ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ KIDS ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171885
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV" tvg-logo="https://lo1.in/LOGO/SPAIN/BABYTV.png" group-title="EU | SPAIN",BABY TV
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV" tvg-logo="https://lo1.in/LOGO/SPAIN/BABYTV.png" group-title="SPAIN",BABY TV
 http://t365.in:900/4802947531/2688022740/165913
-#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="https://lo1.in/LOGO/SPAIN/BOING.png" group-title="EU | SPAIN",BOING
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="https://lo1.in/LOGO/SPAIN/BOING.png" group-title="SPAIN",BOING
 http://t365.in:900/4802947531/2688022740/165911
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALPANDA.png" group-title="EU | SPAIN",CANAL PANDA
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALPANDA.png" group-title="SPAIN",CANAL PANDA
 http://t365.in:900/4802947531/2688022740/165912
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYHD.png" group-title="EU | SPAIN",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYHD.png" group-title="SPAIN",DISNEY CHANNEL
 http://t365.in:900/4802947531/2688022740/165914
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYJR.png" group-title="EU | SPAIN",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYJR.png" group-title="SPAIN",DISNEY JUNIOR
 http://t365.in:900/4802947531/2688022740/165915
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JR" tvg-logo="https://lo1.in/LOGO/SPAIN/NICKELODEONJUNIORHD.png" group-title="EU | SPAIN",NICK JR
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JR" tvg-logo="https://lo1.in/LOGO/SPAIN/NICKELODEONJUNIORHD.png" group-title="SPAIN",NICK JR
 http://t365.in:900/4802947531/2688022740/165917
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="https://lo1.in/LOGO/SPAIN/nickelodeon.png" group-title="EU | SPAIN",NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="https://lo1.in/LOGO/SPAIN/nickelodeon.png" group-title="SPAIN",NICKELODEON
 http://t365.in:900/4802947531/2688022740/165918
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORT ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦SPORT ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORT ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦SPORT ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171886
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN F1 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN",DAZN F1 ESPAÑA
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN F1 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="SPAIN",DAZN F1 ESPAÑA
 http://t365.in:900/4802947531/2688022740/165888
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN",DAZN 1 ESPAÑA
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="SPAIN",DAZN 1 ESPAÑA
 http://t365.in:900/4802947531/2688022740/360194
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN",DAZN 2 ESPAÑA
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="SPAIN",DAZN 2 ESPAÑA
 http://t365.in:900/4802947531/2688022740/360195
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3ESPA%C3%91A.png" group-title="EU | SPAIN",DAZN 3 ESPAÑA
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3ESPA%C3%91A.png" group-title="SPAIN",DAZN 3 ESPAÑA
 http://t365.in:900/4802947531/2688022740/379042
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4espana.png" group-title="EU | SPAIN",DAZN 4 ESPAÑA
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4espana.png" group-title="SPAIN",DAZN 4 ESPAÑA
 http://t365.in:900/4802947531/2688022740/379043
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT1.png" group-title="EU | SPAIN",EUROSPORT 1
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT1.png" group-title="SPAIN",EUROSPORT 1
 http://t365.in:900/4802947531/2688022740/165896
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT2.png" group-title="EU | SPAIN",EUROSPORT 2
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT2.png" group-title="SPAIN",EUROSPORT 2
 http://t365.in:900/4802947531/2688022740/165897
-#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV" tvg-logo="https://lo1.in/LOGO/SPAIN/GOL.png" group-title="EU | SPAIN",GOL TV
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV" tvg-logo="https://lo1.in/LOGO/SPAIN/GOL.png" group-title="SPAIN",GOL TV
 http://t365.in:900/4802947531/2688022740/165892
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/MULTIDEPORTE.png" group-title="EU | SPAIN",MULTIDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/MULTIDEPORTE.png" group-title="SPAIN",MULTIDEPORTE
 http://t365.in:900/4802947531/2688022740/165891
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png" group-title="EU | SPAIN",REAL MADRID TV
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png" group-title="SPAIN",REAL MADRID TV
 http://t365.in:900/4802947531/2688022740/165894
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/barcatv.png" group-title="EU | SPAIN",BARCA TV
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/barcatv.png" group-title="SPAIN",BARCA TV
 http://t365.in:900/4802947531/2688022740/165895
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M. GOLF" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png" group-title="EU | SPAIN",M. GOLF
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M. GOLF" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png" group-title="SPAIN",M. GOLF
 http://t365.in:900/4802947531/2688022740/165887
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M. DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M. DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES
 http://t365.in:900/4802947531/2688022740/165889
-#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="M. DEPORTES 1" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES 1
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="M. DEPORTES 1" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES 1
 http://t365.in:900/4802947531/2688022740/187566
-#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="M. DEPORTES 3" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES 3
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="M. DEPORTES 3" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES 3
 http://t365.in:900/4802947531/2688022740/187568
-#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="M. DEPORTES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES 2
+#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="M. DEPORTES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES 2
 http://t365.in:900/4802947531/2688022740/187569
-#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="M. DEPORTES 5" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_8.png" group-title="EU | SPAIN",M. DEPORTES 5
+#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="M. DEPORTES 5" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_8.png" group-title="SPAIN",M. DEPORTES 5
 http://t365.in:900/4802947531/2688022740/187561
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="M.LALIGATV BAR" tvg-logo="https://lo1.in/LOGO/SPAIN/LaLigaTV%20Bar.png" group-title="EU | SPAIN",M.LALIGATV BAR
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="M.LALIGATV BAR" tvg-logo="https://lo1.in/LOGO/SPAIN/LaLigaTV%20Bar.png" group-title="SPAIN",M.LALIGATV BAR
 http://t365.in:900/4802947531/2688022740/400267408
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LALIGA" tvg-logo="https://lo1.in/LOGO/SPAIN/M-LALIGA.png" group-title="EU | SPAIN",M. LALIGA
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LALIGA" tvg-logo="https://lo1.in/LOGO/SPAIN/M-LALIGA.png" group-title="SPAIN",M. LALIGA
 http://t365.in:900/4802947531/2688022740/165885
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_1_.png" group-title="EU | SPAIN",M. LALIGA 1
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_1_.png" group-title="SPAIN",M. LALIGA 1
 http://t365.in:900/4802947531/2688022740/187554
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M. LALIGA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_2.png" group-title="EU | SPAIN",M. LALIGA 2
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M. LALIGA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_2.png" group-title="SPAIN",M. LALIGA 2
 http://t365.in:900/4802947531/2688022740/187555
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M. LALIGA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_3.png" group-title="EU | SPAIN",M. LALIGA 3
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M. LALIGA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_3.png" group-title="SPAIN",M. LALIGA 3
 http://t365.in:900/4802947531/2688022740/187556
-#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="M. LALIGA 4" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_4.png" group-title="EU | SPAIN",M. LALIGA 4
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="M. LALIGA 4" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_4.png" group-title="SPAIN",M. LALIGA 4
 http://t365.in:900/4802947531/2688022740/187557
-#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="M. LALIGA 5 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_5.png" group-title="EU | SPAIN",M. LALIGA 5 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mlaliga5.es" tvg-name="M. LALIGA 5 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_5.png" group-title="SPAIN",M. LALIGA 5 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/187558
-#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="M. LALIGA 6 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_6.png" group-title="EU | SPAIN",M. LALIGA 6 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="M. LALIGA 6 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_6.png" group-title="SPAIN",M. LALIGA 6 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/187559
-#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="M. LALIGA 7 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_7.png" group-title="EU | SPAIN",M. LALIGA 7 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="M. LALIGA 7 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_7.png" group-title="SPAIN",M. LALIGA 7 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/187560
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M. LCAMPEONS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEONS
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M. LCAMPEONS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEONS
 http://t365.in:900/4802947531/2688022740/187582
-#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M. LCAMPEON 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 1
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M. LCAMPEON 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 1
 http://t365.in:900/4802947531/2688022740/187583
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M. LCAMPEON 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 2
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M. LCAMPEON 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 2
 http://t365.in:900/4802947531/2688022740/187584
-#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="M. LCAMPEON 4" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_9.png" group-title="EU | SPAIN",M. LCAMPEON 4
+#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="M. LCAMPEON 4" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_9.png" group-title="SPAIN",M. LCAMPEON 4
 http://t365.in:900/4802947531/2688022740/187562
-#EXTINF:-1 tvg-id="" tvg-name="M. LCAMPEON 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_10.png" group-title="EU | SPAIN",M. LCAMPEON 3
+#EXTINF:-1 tvg-id="" tvg-name="M. LCAMPEON 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_10.png" group-title="SPAIN",M. LCAMPEON 3
 http://t365.in:900/4802947531/2688022740/187563
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 01 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 01 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 01 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 01 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246213
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 02 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 02 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 02 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 02 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246212
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 03 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 03 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 03 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 03 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246211
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 04 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 04 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 04 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 04 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246210
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 05 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 05 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 05 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 05 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246209
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 06 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 06 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 06 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 06 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246208
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 07 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 07 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 07 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 07 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246207
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 08 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 08 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 08 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 08 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246206
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 09 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 09 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 09 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 09 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246205
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 10 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 10 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 10 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 10 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246204
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 11 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 11 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 11 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 11 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246203
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 12 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 12 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 12 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 12 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246202
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 13 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 13 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 13 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 13 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246201
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 14 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 14 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 14 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 14 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246200
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 15 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 15 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 15 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 15 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246199
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 16 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 16 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 16 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 16 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246198
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 17 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 17 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 17 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 17 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246197
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 18 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 18 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 18 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 18 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246196
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 19 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 19 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 19 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 19 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246195
-#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 20 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="EU | SPAIN",FOOTTERS 20 EN VIVO SOLO PARTIDO
+#EXTINF:-1 tvg-id="" tvg-name="FOOTTERS 20 EN VIVO SOLO PARTIDO" tvg-logo="https://lo1.in/LOGO/SPAIN/FOOTTERS.png" group-title="SPAIN",FOOTTERS 20 EN VIVO SOLO PARTIDO
 http://t365.in:900/4802947531/2688022740/400246194
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ MOVIESTAR ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ MOVIESTAR ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171887
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="https://lo1.in/LOGO/SPAIN/DREAMWORKS.png" group-title="EU | SPAIN",DREAMWORKS
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="https://lo1.in/LOGO/SPAIN/DREAMWORKS.png" group-title="SPAIN",DREAMWORKS
 http://t365.in:900/4802947531/2688022740/400219956
-#EXTINF:-1 tvg-id="" tvg-name="M. VACACIONES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.VACACIONES.png" group-title="EU | SPAIN",M. VACACIONES
+#EXTINF:-1 tvg-id="" tvg-name="M. VACACIONES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.VACACIONES.png" group-title="SPAIN",M. VACACIONES
 http://t365.in:900/4802947531/2688022740/400241683
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="EU | SPAIN",M. ACCION
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="SPAIN",M. ACCION
 http://t365.in:900/4802947531/2688022740/165856
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M. CINE ESPANOL" tvg-logo="https://lo1.in/LOGO/SPAIN/M.CINEESP.png" group-title="EU | SPAIN",M. CINE ESPANOL
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M. CINE ESPANOL" tvg-logo="https://lo1.in/LOGO/SPAIN/M.CINEESP.png" group-title="SPAIN",M. CINE ESPANOL
 http://t365.in:900/4802947531/2688022740/165860
-#EXTINF:-1 tvg-id="" tvg-name="M. CL.SICOS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Clasicos.png" group-title="EU | SPAIN",M. CL.SICOS
+#EXTINF:-1 tvg-id="" tvg-name="M. CL.SICOS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Clasicos.png" group-title="SPAIN",M. CL.SICOS
 http://t365.in:900/4802947531/2688022740/400233594
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Comedia.png" group-title="EU | SPAIN",M. COMEDIA
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Comedia.png" group-title="SPAIN",M. COMEDIA
 http://t365.in:900/4802947531/2688022740/165857
-#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="M. ESTRENOS 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="EU | SPAIN",M. ESTRENOS 2
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="M. ESTRENOS 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="SPAIN",M. ESTRENOS 2
 http://t365.in:900/4802947531/2688022740/165859
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M. DRAMA" tvg-logo="https://lo1.in/LOGO/SPAIN/MDRAMA.png" group-title="EU | SPAIN",M. DRAMA
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M. DRAMA" tvg-logo="https://lo1.in/LOGO/SPAIN/MDRAMA.png" group-title="SPAIN",M. DRAMA
 http://t365.in:900/4802947531/2688022740/165858
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M. ESTRENOS" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="EU | SPAIN",M. ESTRENOS
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M. ESTRENOS" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="SPAIN",M. ESTRENOS
 http://t365.in:900/4802947531/2688022740/165855
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="EU | SPAIN",M. SERIES
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="SPAIN",M. SERIES
 http://t365.in:900/4802947531/2688022740/165861
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="EU | SPAIN",M. SERIES 2
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="SPAIN",M. SERIES 2
 http://t365.in:900/4802947531/2688022740/165867
-#EXTINF:-1 tvg-id="" tvg-name="M. FEST" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="EU | SPAIN",M. FEST
+#EXTINF:-1 tvg-id="" tvg-name="M. FEST" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="SPAIN",M. FEST
 http://t365.in:900/4802947531/2688022740/362315
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦MUSICA✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦MUSICA✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦MUSICA✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦MUSICA✦●✦
 http://t365.in:900/4802947531/2688022740/155748
-#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="https://lo1.in/LOGO/SPAIN/CLASSICA.png" group-title="EU | SPAIN",CLASSICA
+#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="https://lo1.in/LOGO/SPAIN/CLASSICA.png" group-title="SPAIN",CLASSICA
 http://t365.in:900/4802947531/2688022740/165920
-#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE" tvg-logo="https://lo1.in/LOGO/SPAIN/MEZZOLIVEHD.png" group-title="EU | SPAIN",MEZZO LIVE
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE" tvg-logo="https://lo1.in/LOGO/SPAIN/MEZZOLIVEHD.png" group-title="SPAIN",MEZZO LIVE
 http://t365.in:900/4802947531/2688022740/165921
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPANA" tvg-logo="https://lo1.in/LOGO/SPAIN/MTV_Espa%C3%B1a.png" group-title="EU | SPAIN",MTV ESPANA
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPANA" tvg-logo="https://lo1.in/LOGO/SPAIN/MTV_Espa%C3%B1a.png" group-title="SPAIN",MTV ESPANA
 http://t365.in:900/4802947531/2688022740/165919
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="TELEDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/TELEDEPORTE.png" group-title="EU | SPAIN",TELEDEPORTE
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="TELEDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/TELEDEPORTE.png" group-title="SPAIN",TELEDEPORTE
 http://t365.in:900/4802947531/2688022740/165893
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ ENTRETENIMIENTO✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ ENTRETENIMIENTO✦●✦ 
 http://t365.in:900/4802947531/2688022740/172129
-#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="https://lo1.in/LOGO/SPAIN/DARK.png" group-title="EU | SPAIN",DARK
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="https://lo1.in/LOGO/SPAIN/DARK.png" group-title="SPAIN",DARK
 http://t365.in:900/4802947531/2688022740/400278977
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="https://lo1.in/LOGO/SPAIN/SYFYHD.png" group-title="EU | SPAIN",SYFY
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="https://lo1.in/LOGO/SPAIN/SYFYHD.png" group-title="SPAIN",SYFY
 http://t365.in:900/4802947531/2688022740/165872
-#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="https://lo1.in/LOGO/SPAIN/AMCHD.png" group-title="EU | SPAIN",AMC
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="https://lo1.in/LOGO/SPAIN/AMCHD.png" group-title="SPAIN",AMC
 http://t365.in:900/4802947531/2688022740/165876
-#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNHD.png" group-title="EU | SPAIN",AXN
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNHD.png" group-title="SPAIN",AXN
 http://t365.in:900/4802947531/2688022740/165870
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNWHITEHD.png" group-title="EU | SPAIN",AXN WHITE
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNWHITEHD.png" group-title="SPAIN",AXN WHITE
 http://t365.in:900/4802947531/2688022740/165871
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="https://lo1.in/LOGO/SPAIN/CALLE13HD.png" group-title="EU | SPAIN",CALLE 13
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="https://lo1.in/LOGO/SPAIN/CALLE13HD.png" group-title="SPAIN",CALLE 13
 http://t365.in:900/4802947531/2688022740/165878
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALDECASA.png" group-title="EU | SPAIN",CANAL DECASA
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALDECASA.png" group-title="SPAIN",CANAL DECASA
 http://t365.in:900/4802947531/2688022740/165875
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL" tvg-logo="https://lo1.in/LOGO/SPAIN/COMEDYCENTRALHD.png" group-title="EU | SPAIN",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL" tvg-logo="https://lo1.in/LOGO/SPAIN/COMEDYCENTRALHD.png" group-title="SPAIN",COMEDY CENTRAL
 http://t365.in:900/4802947531/2688022740/165874
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="https://lo1.in/LOGO/SPAIN/COSMOHD.png" group-title="EU | SPAIN",COSMO
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="https://lo1.in/LOGO/SPAIN/COSMOHD.png" group-title="SPAIN",COSMO
 http://t365.in:900/4802947531/2688022740/165877
-#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXHD.png" group-title="EU | SPAIN",FOX
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXHD.png" group-title="SPAIN",FOX
 http://t365.in:900/4802947531/2688022740/165868
-#EXTINF:-1 tvg-id="foxlife.es" tvg-name="FOX LIFE" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXLIFEHD.png" group-title="EU | SPAIN",FOX LIFE
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="FOX LIFE" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXLIFEHD.png" group-title="SPAIN",FOX LIFE
 http://t365.in:900/4802947531/2688022740/165869
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="https://lo1.in/LOGO/SPAIN/HOLLYWOODHD.png" group-title="EU | SPAIN",HOLLYWOOD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="https://lo1.in/LOGO/SPAIN/HOLLYWOODHD.png" group-title="SPAIN",HOLLYWOOD
 http://t365.in:900/4802947531/2688022740/165862
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/PARAMOUNT.png" group-title="EU | SPAIN",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/PARAMOUNT.png" group-title="SPAIN",PARAMOUNT CHANNEL
 http://t365.in:900/4802947531/2688022740/165865
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="https://lo1.in/LOGO/SPAIN/SUNDANCE.png" group-title="EU | SPAIN",SUNDANCE
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="https://lo1.in/LOGO/SPAIN/SUNDANCE.png" group-title="SPAIN",SUNDANCE
 http://t365.in:900/4802947531/2688022740/165873
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="https://lo1.in/LOGO/SPAIN/TCMHD.png" group-title="EU | SPAIN",TCM
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="https://lo1.in/LOGO/SPAIN/TCMHD.png" group-title="SPAIN",TCM
 http://t365.in:900/4802947531/2688022740/165863
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="https://lo1.in/LOGO/SPAIN/TNTHD.png" group-title="EU | SPAIN",TNT
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="https://lo1.in/LOGO/SPAIN/TNTHD.png" group-title="SPAIN",TNT
 http://t365.in:900/4802947531/2688022740/165864
-#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="https://lo1.in/LOGO/SPAIN/nova.png" group-title="EU | SPAIN",NOVA
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="https://lo1.in/LOGO/SPAIN/nova.png" group-title="SPAIN",NOVA
 http://t365.in:900/4802947531/2688022740/165848
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦CULTURA✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦CULTURA✦●✦ 
 http://t365.in:900/4802947531/2688022740/172118
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="DMAX" tvg-logo="https://lo1.in/LOGO/SPAIN/DMAX.png" group-title="EU | SPAIN",DMAX
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="DMAX" tvg-logo="https://lo1.in/LOGO/SPAIN/DMAX.png" group-title="SPAIN",DMAX
 http://t365.in:900/4802947531/2688022740/5613
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="https://lo1.in/LOGO/SPAIN/Dkiss.png" group-title="EU | SPAIN",DKISS
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="https://lo1.in/LOGO/SPAIN/Dkiss.png" group-title="SPAIN",DKISS
 http://t365.in:900/4802947531/2688022740/381608
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="https://lo1.in/LOGO/SPAIN/BLAZE.png" group-title="EU | SPAIN",BLAZE
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="https://lo1.in/LOGO/SPAIN/BLAZE.png" group-title="SPAIN",BLAZE
 http://t365.in:900/4802947531/2688022740/165908
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALCOCINA.png" group-title="EU | SPAIN",CANAL COCINA
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALCOCINA.png" group-title="SPAIN",CANAL COCINA
 http://t365.in:900/4802947531/2688022740/165906
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALODISEA.png" group-title="EU | SPAIN",CANAL ODISEA
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALODISEA.png" group-title="SPAIN",CANAL ODISEA
 http://t365.in:900/4802947531/2688022740/165899
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA &amp; PESCA" tvg-logo="https://lo1.in/LOGO/SPAIN/CAZAYPESCAHD.png" group-title="EU | SPAIN",CAZA &amp; PESCA
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA &amp; PESCA" tvg-logo="https://lo1.in/LOGO/SPAIN/CAZAYPESCAHD.png" group-title="SPAIN",CAZA &amp; PESCA
 http://t365.in:900/4802947531/2688022740/165905
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="https://lo1.in/LOGO/SPAIN/CLANTVE.png" group-title="EU | SPAIN",CLAN TVE
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="https://lo1.in/LOGO/SPAIN/CLANTVE.png" group-title="SPAIN",CLAN TVE
 http://t365.in:900/4802947531/2688022740/165847
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="CRIMEN INVESTIGACION" tvg-logo="https://lo1.in/LOGO/SPAIN/CRIMENYINVES.png" group-title="EU | SPAIN",CRIMEN INVESTIGACION
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="CRIMEN INVESTIGACION" tvg-logo="https://lo1.in/LOGO/SPAIN/CRIMENYINVES.png" group-title="SPAIN",CRIMEN INVESTIGACION
 http://t365.in:900/4802947531/2688022740/165904
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISCOVERY.png" group-title="EU | SPAIN",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISCOVERY.png" group-title="SPAIN",DISCOVERY CHANNEL
 http://t365.in:900/4802947531/2688022740/165902
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="https://lo1.in/LOGO/SPAIN/DIVINITY.png" group-title="EU | SPAIN",DIVINITY
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="https://lo1.in/LOGO/SPAIN/DIVINITY.png" group-title="SPAIN",DIVINITY
 http://t365.in:900/4802947531/2688022740/165879
-#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="https://lo1.in/LOGO/SPAIN/HISTORIA.png" group-title="EU | SPAIN",HISTORIA
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="https://lo1.in/LOGO/SPAIN/HISTORIA.png" group-title="SPAIN",HISTORIA
 http://t365.in:900/4802947531/2688022740/165909
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOWILD.png" group-title="EU | SPAIN",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOWILD.png" group-title="SPAIN",NAT GEO WILD
 http://t365.in:900/4802947531/2688022740/165900
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOHD.png" group-title="EU | SPAIN",NAT GEOGRAPHIC
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOHD.png" group-title="SPAIN",NAT GEOGRAPHIC
 http://t365.in:900/4802947531/2688022740/165901
-#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="https://lo1.in/LOGO/SPAIN/TOROSHD.png" group-title="EU | SPAIN",TOROS
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="https://lo1.in/LOGO/SPAIN/TOROSHD.png" group-title="SPAIN",TOROS
 http://t365.in:900/4802947531/2688022740/165907
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR" tvg-logo="https://lo1.in/LOGO/SPAIN/VIAJARHD.png" group-title="EU | SPAIN",VIAJAR
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR" tvg-logo="https://lo1.in/LOGO/SPAIN/VIAJARHD.png" group-title="SPAIN",VIAJAR
 http://t365.in:900/4802947531/2688022740/165910
-#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ARAGON TV" tvg-logo="https://lo1.in/LOGO/SPAIN/ARAGON.png" group-title="EU | SPAIN",ARAGON TV
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ARAGON TV" tvg-logo="https://lo1.in/LOGO/SPAIN/ARAGON.png" group-title="SPAIN",ARAGON TV
 http://t365.in:900/4802947531/2688022740/165846
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORIA DE FICCION" tvg-logo="https://lo1.in/LOGO/SPAIN/FACTORIADEFICCION.png" group-title="EU | SPAIN",FACTORIA DE FICCION
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORIA DE FICCION" tvg-logo="https://lo1.in/LOGO/SPAIN/FACTORIADEFICCION.png" group-title="SPAIN",FACTORIA DE FICCION
 http://t365.in:900/4802947531/2688022740/165903
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ SPAIN ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171991
@@ -513,585 +513,585 @@ http://t365.in:900/4802947531/2688022740/189483
 http://t365.in:900/4802947531/2688022740/189474
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOHD.png" group-title="EU | SPAIN",NAT GEOGRAPHIC
 http://t365.in:900/4802947531/2688022740/189475
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ SPAIN ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ SPAIN ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171847
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="# VAMOS" tvg-logo="https://lo1.in/LOGO/SPAIN/VAMOSHD.png" group-title="EU | SPAIN",# VAMOS
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="# VAMOS" tvg-logo="https://lo1.in/LOGO/SPAIN/VAMOSHD.png" group-title="SPAIN",# VAMOS
 http://t365.in:900/4802947531/2688022740/165967
-#EXTINF:-1 tvg-id="cero.es" tvg-name="#0" tvg-logo="https://lo1.in/LOGO/SPAIN/00.png" group-title="EU | SPAIN",#0
+#EXTINF:-1 tvg-id="cero.es" tvg-name="#0" tvg-logo="https://lo1.in/LOGO/SPAIN/00.png" group-title="SPAIN",#0
 http://t365.in:900/4802947531/2688022740/165951
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/ANTENA3HD.png" group-title="EU | SPAIN",ANTENA 3
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/ANTENA3HD.png" group-title="SPAIN",ANTENA 3
 http://t365.in:900/4802947531/2688022740/165927
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/LOGO/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN",TELECINCO
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/LOGO/SPAIN/TELECINCOHD.png" group-title="SPAIN",TELECINCO
 http://t365.in:900/4802947531/2688022740/165929
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/LOGO/SPAIN/LASEXTAHD.png" group-title="EU | SPAIN",LA SEXTA
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/LOGO/SPAIN/LASEXTAHD.png" group-title="SPAIN",LA SEXTA
 http://t365.in:900/4802947531/2688022740/165930
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="https://lo1.in/LOGO/SPAIN/CANAL24HORAS.png" group-title="EU | SPAIN",CANAL 24 HORAS
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="https://lo1.in/LOGO/SPAIN/CANAL24HORAS.png" group-title="SPAIN",CANAL 24 HORAS
 http://t365.in:900/4802947531/2688022740/165924
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/LOGO/SPAIN/CUATROHD.png" group-title="EU | SPAIN",CUATRO
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/LOGO/SPAIN/CUATROHD.png" group-title="SPAIN",CUATRO
 http://t365.in:900/4802947531/2688022740/165928
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="https://lo1.in/LOGO/SPAIN/BEMAD.png" group-title="EU | SPAIN",BE MAD
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="https://lo1.in/LOGO/SPAIN/BEMAD.png" group-title="SPAIN",BE MAD
 http://t365.in:900/4802947531/2688022740/165966
-#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR ANDALUCÍA " tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSUR.png" group-title="EU | SPAIN",CANAL SUR ANDALUCÍA 
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR ANDALUCÍA " tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSUR.png" group-title="SPAIN",CANAL SUR ANDALUCÍA 
 http://t365.in:900/4802947531/2688022740/165935
-#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="https://lo1.in/LOGO/SPAIN/MEGAHD.png" group-title="EU | SPAIN",MEGA
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="https://lo1.in/LOGO/SPAIN/MEGAHD.png" group-title="SPAIN",MEGA
 http://t365.in:900/4802947531/2688022740/5631
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/LA1HD.png" group-title="EU | SPAIN",LA 1
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/LA1HD.png" group-title="SPAIN",LA 1
 http://t365.in:900/4802947531/2688022740/165922
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/LA2.png" group-title="EU | SPAIN",LA 2
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/LA2.png" group-title="SPAIN",LA 2
 http://t365.in:900/4802947531/2688022740/165923
-#EXTINF:-1 tvg-id="" tvg-name="LA 7" tvg-logo="https://lo1.in/LOGO/SPAIN/LA7.png" group-title="EU | SPAIN",LA 7
+#EXTINF:-1 tvg-id="" tvg-name="LA 7" tvg-logo="https://lo1.in/LOGO/SPAIN/LA7.png" group-title="SPAIN",LA 7
 http://t365.in:900/4802947531/2688022740/5679
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="https://lo1.in/LOGO/SPAIN/DIVINITY.png" group-title="EU | SPAIN",DIVINITY
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="https://lo1.in/LOGO/SPAIN/DIVINITY.png" group-title="SPAIN",DIVINITY
 http://t365.in:900/4802947531/2688022740/165964
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="https://lo1.in/LOGO/SPAIN/ENERGY.png" group-title="EU | SPAIN",ENERGY
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="https://lo1.in/LOGO/SPAIN/ENERGY.png" group-title="SPAIN",ENERGY
 http://t365.in:900/4802947531/2688022740/165965
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="https://lo1.in/LOGO/SPAIN/NEOX.png" group-title="EU | SPAIN",NEOX
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="https://lo1.in/LOGO/SPAIN/NEOX.png" group-title="SPAIN",NEOX
 http://t365.in:900/4802947531/2688022740/165934
-#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="TVE INTERNACIONAL" tvg-logo="https://lo1.in/LOGO/SPAIN/tveinternational.png" group-title="EU | SPAIN",TVE INTERNACIONAL
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="TVE INTERNACIONAL" tvg-logo="https://lo1.in/LOGO/SPAIN/tveinternational.png" group-title="SPAIN",TVE INTERNACIONAL
 http://t365.in:900/4802947531/2688022740/165925
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALODISEA.png" group-title="EU | SPAIN",CANAL ODISEA
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALODISEA.png" group-title="SPAIN",CANAL ODISEA
 http://t365.in:900/4802947531/2688022740/171216
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/IBERALIA.png" group-title="EU | SPAIN",IBERALIA TV
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/IBERALIA.png" group-title="SPAIN",IBERALIA TV
 http://t365.in:900/4802947531/2688022740/165983
-#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="https://lo1.in/LOGO/SPAIN/GALICIA.png" group-title="EU | SPAIN",TV GALICIA
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="https://lo1.in/LOGO/SPAIN/GALICIA.png" group-title="SPAIN",TV GALICIA
 http://t365.in:900/4802947531/2688022740/360743
-#EXTINF:-1 tvg-id="" tvg-name="7RM" tvg-logo="https://lo1.in/LOGO/SPAIN/7RM.png" group-title="EU | SPAIN",7RM
+#EXTINF:-1 tvg-id="" tvg-name="7RM" tvg-logo="https://lo1.in/LOGO/SPAIN/7RM.png" group-title="SPAIN",7RM
 http://t365.in:900/4802947531/2688022740/5628
-#EXTINF:-1 tvg-id="" tvg-name="POPULARTV" tvg-logo="https://lo1.in/LOGO/SPAIN/POPULARMELILLA.png" group-title="EU | SPAIN",POPULARTV
+#EXTINF:-1 tvg-id="" tvg-name="POPULARTV" tvg-logo="https://lo1.in/LOGO/SPAIN/POPULARMELILLA.png" group-title="SPAIN",POPULARTV
 http://t365.in:900/4802947531/2688022740/5626
-#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN" tvg-logo="https://lo1.in/LOGO/SPAIN/Ten.png" group-title="EU | SPAIN",TEN
+#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN" tvg-logo="https://lo1.in/LOGO/SPAIN/Ten.png" group-title="SPAIN",TEN
 http://t365.in:900/4802947531/2688022740/5624
-#EXTINF:-1 tvg-id="" tvg-name="TVM" tvg-logo="https://lo1.in/LOGO/SPAIN/TVM.png" group-title="EU | SPAIN",TVM
+#EXTINF:-1 tvg-id="" tvg-name="TVM" tvg-logo="https://lo1.in/LOGO/SPAIN/TVM.png" group-title="SPAIN",TVM
 http://t365.in:900/4802947531/2688022740/5622
-#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/A3SERIES.png" group-title="EU | SPAIN",A3 SERIES
+#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/A3SERIES.png" group-title="SPAIN",A3 SERIES
 http://t365.in:900/4802947531/2688022740/5619
-#EXTINF:-1 tvg-id="13tv.es" tvg-name="TRECE" tvg-logo="https://lo1.in/LOGO/SPAIN/TRECE.png" group-title="EU | SPAIN",TRECE
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="TRECE" tvg-logo="https://lo1.in/LOGO/SPAIN/TRECE.png" group-title="SPAIN",TRECE
 http://t365.in:900/4802947531/2688022740/5617
-#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="https://lo1.in/LOGO/SPAIN/BOMCINE.png" group-title="EU | SPAIN",BOM CINE
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="https://lo1.in/LOGO/SPAIN/BOMCINE.png" group-title="SPAIN",BOM CINE
 http://t365.in:900/4802947531/2688022740/5614
-#EXTINF:-1 tvg-id="" tvg-name="RTV DIOCESANA TOLEDO ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/RTVDIOCESANATOLEDOESPA%C3%91.png" group-title="EU | SPAIN",RTV DIOCESANA TOLEDO ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-name="RTV DIOCESANA TOLEDO ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/RTVDIOCESANATOLEDOESPA%C3%91.png" group-title="SPAIN",RTV DIOCESANA TOLEDO ESPAÑA
 http://t365.in:900/4802947531/2688022740/5673
-#EXTINF:-1 tvg-id="" tvg-name="EWTN SPAIN" tvg-logo="https://lo1.in/LOGO/SPAIN/EWTN.png" group-title="EU | SPAIN",EWTN SPAIN
+#EXTINF:-1 tvg-id="" tvg-name="EWTN SPAIN" tvg-logo="https://lo1.in/LOGO/SPAIN/EWTN.png" group-title="SPAIN",EWTN SPAIN
 http://t365.in:900/4802947531/2688022740/5671
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CÁDIZ" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSIERRADEC%C3%81DIZ.png" group-title="EU | SPAIN",CANAL SIERRA DE CÁDIZ
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CÁDIZ" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSIERRADEC%C3%81DIZ.png" group-title="SPAIN",CANAL SIERRA DE CÁDIZ
 http://t365.in:900/4802947531/2688022740/5669
-#EXTINF:-1 tvg-id="" tvg-name="MOLA TV ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/MOLATVESPA%C3%91A.png" group-title="EU | SPAIN",MOLA TV ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-name="MOLA TV ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/MOLATVESPA%C3%91A.png" group-title="SPAIN",MOLA TV ESPAÑA
 http://t365.in:900/4802947531/2688022740/5605
-#EXTINF:-1 tvg-id="" tvg-name="CADENA ELITE ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/CADENAELITEESPA%C3%91A.png" group-title="EU | SPAIN",CADENA ELITE ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-name="CADENA ELITE ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/CADENAELITEESPA%C3%91A.png" group-title="SPAIN",CADENA ELITE ESPAÑA
 http://t365.in:900/4802947531/2688022740/5604
-#EXTINF:-1 tvg-id="" tvg-name="NIUS" tvg-logo="https://lo1.in/LOGO/SPAIN/nius.png" group-title="EU | SPAIN",NIUS
+#EXTINF:-1 tvg-id="" tvg-name="NIUS" tvg-logo="https://lo1.in/LOGO/SPAIN/nius.png" group-title="SPAIN",NIUS
 http://t365.in:900/4802947531/2688022740/5601
-#EXTINF:-1 tvg-id="" tvg-name="NAVARRA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/NAVARRA.png" group-title="EU | SPAIN",NAVARRA TV
+#EXTINF:-1 tvg-id="" tvg-name="NAVARRA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/NAVARRA.png" group-title="SPAIN",NAVARRA TV
 http://t365.in:900/4802947531/2688022740/5600
-#EXTINF:-1 tvg-id="" tvg-name="TV ANDALUCÍA" tvg-logo="https://lo1.in/LOGO/SPAIN/Andalucia.png" group-title="EU | SPAIN",TV ANDALUCÍA
+#EXTINF:-1 tvg-id="" tvg-name="TV ANDALUCÍA" tvg-logo="https://lo1.in/LOGO/SPAIN/Andalucia.png" group-title="SPAIN",TV ANDALUCÍA
 http://t365.in:900/4802947531/2688022740/5689
-#EXTINF:-1 tvg-id="" tvg-name="SOLIDARIA TV ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/SOLIDARIA.png" group-title="EU | SPAIN",SOLIDARIA TV ESPAÑA
+#EXTINF:-1 tvg-id="" tvg-name="SOLIDARIA TV ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/SOLIDARIA.png" group-title="SPAIN",SOLIDARIA TV ESPAÑA
 http://t365.in:900/4802947531/2688022740/5686
-#EXTINF:-1 tvg-id="rtespanol.es" tvg-name="RT ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/RT.png" group-title="EU | SPAIN",RT ESPAÑA
+#EXTINF:-1 tvg-id="rtespanol.es" tvg-name="RT ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/RT.png" group-title="SPAIN",RT ESPAÑA
 http://t365.in:900/4802947531/2688022740/5685
-#EXTINF:-1 tvg-id="" tvg-name="EITB BASQUE" tvg-logo="https://lo1.in/LOGO/SPAIN/EITBBASQUE.png" group-title="EU | SPAIN",EITB BASQUE
+#EXTINF:-1 tvg-id="" tvg-name="EITB BASQUE" tvg-logo="https://lo1.in/LOGO/SPAIN/EITBBASQUE.png" group-title="SPAIN",EITB BASQUE
 http://t365.in:900/4802947531/2688022740/5681
-#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3CAT" tvg-logo="https://lo1.in/LOGO/SPAIN/TV3CAT.png" group-title="EU | SPAIN",TV3CAT
+#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3CAT" tvg-logo="https://lo1.in/LOGO/SPAIN/TV3CAT.png" group-title="SPAIN",TV3CAT
 http://t365.in:900/4802947531/2688022740/5675
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ KIDS ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ KIDS ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171848
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV" tvg-logo="https://lo1.in/LOGO/SPAIN/BABYTV.png" group-title="EU | SPAIN",BABY TV
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV" tvg-logo="https://lo1.in/LOGO/SPAIN/BABYTV.png" group-title="SPAIN",BABY TV
 http://t365.in:900/4802947531/2688022740/165998
-#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="https://lo1.in/LOGO/SPAIN/BOING.png" group-title="EU | SPAIN",BOING
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="https://lo1.in/LOGO/SPAIN/BOING.png" group-title="SPAIN",BOING
 http://t365.in:900/4802947531/2688022740/165996
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALPANDA.png" group-title="EU | SPAIN",CANAL PANDA
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALPANDA.png" group-title="SPAIN",CANAL PANDA
 http://t365.in:900/4802947531/2688022740/165997
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYJR.png" group-title="EU | SPAIN",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYJR.png" group-title="SPAIN",DISNEY JUNIOR
 http://t365.in:900/4802947531/2688022740/166000
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JR" tvg-logo="https://lo1.in/LOGO/SPAIN/NICKELODEONJUNIORHD.png" group-title="EU | SPAIN",NICK JR
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JR" tvg-logo="https://lo1.in/LOGO/SPAIN/NICKELODEONJUNIORHD.png" group-title="SPAIN",NICK JR
 http://t365.in:900/4802947531/2688022740/166002
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="https://lo1.in/LOGO/SPAIN/nickelodeon.png" group-title="EU | SPAIN",NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="https://lo1.in/LOGO/SPAIN/nickelodeon.png" group-title="SPAIN",NICKELODEON
 http://t365.in:900/4802947531/2688022740/166003
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦  SPORT ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦  SPORT ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦  SPORT ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦  SPORT ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171849
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png" group-title="EU | SPAIN",REAL MADRID TV
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png" group-title="SPAIN",REAL MADRID TV
 http://t365.in:900/4802947531/2688022740/165979
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/barcatv.png" group-title="EU | SPAIN",BARCA TV
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV" tvg-logo="https://lo1.in/LOGO/SPAIN/barcatv.png" group-title="SPAIN",BARCA TV
 http://t365.in:900/4802947531/2688022740/165980
-#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV" tvg-logo="https://lo1.in/LOGO/SPAIN/GOL.png" group-title="EU | SPAIN",GOL TV
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV" tvg-logo="https://lo1.in/LOGO/SPAIN/GOL.png" group-title="SPAIN",GOL TV
 http://t365.in:900/4802947531/2688022740/165977
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN F1 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/MFORMULA1.png" group-title="EU | SPAIN",DAZN F1 ESPAÑA
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN F1 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/MFORMULA1.png" group-title="SPAIN",DAZN F1 ESPAÑA
 http://t365.in:900/4802947531/2688022740/165973
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN",DAZN 1 ESPAÑA HD
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="SPAIN",DAZN 1 ESPAÑA HD
 http://t365.in:900/4802947531/2688022740/165068
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN",DAZN 2 ESPAÑA
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="SPAIN",DAZN 2 ESPAÑA
 http://t365.in:900/4802947531/2688022740/165070
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3ESPA%C3%91A.png" group-title="EU | SPAIN",DAZN 3 ESPAÑA
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3ESPA%C3%91A.png" group-title="SPAIN",DAZN 3 ESPAÑA
 http://t365.in:900/4802947531/2688022740/379046
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4espana.png" group-title="EU | SPAIN",DAZN 4 ESPAÑA
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4espana.png" group-title="SPAIN",DAZN 4 ESPAÑA
 http://t365.in:900/4802947531/2688022740/379047
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT1.png" group-title="EU | SPAIN",EUROSPORT 1
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT1.png" group-title="SPAIN",EUROSPORT 1
 http://t365.in:900/4802947531/2688022740/165981
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT2.png" group-title="EU | SPAIN",EUROSPORT 2
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT2.png" group-title="SPAIN",EUROSPORT 2
 http://t365.in:900/4802947531/2688022740/165982
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M. GOLF" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png" group-title="EU | SPAIN",M. GOLF
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M. GOLF" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png" group-title="SPAIN",M. GOLF
 http://t365.in:900/4802947531/2688022740/165972
-#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="M. ESTRENOS 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="EU | SPAIN",M. ESTRENOS 2
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="M. ESTRENOS 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="SPAIN",M. ESTRENOS 2
 http://t365.in:900/4802947531/2688022740/165944
-#EXTINF:-1 tvg-id="" tvg-name="LALIGATVBAR 1 [LIVEEVENT]" tvg-logo="https://lo1.in/LOGO/SPAIN/LaLigaTV%20Bar.png" group-title="EU | SPAIN",LALIGATVBAR 1 [LIVEEVENT]
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATVBAR 1 [LIVEEVENT]" tvg-logo="https://lo1.in/LOGO/SPAIN/LaLigaTV%20Bar.png" group-title="SPAIN",LALIGATVBAR 1 [LIVEEVENT]
 http://t365.in:900/4802947531/2688022740/400220789
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="LALIGATV BAR" tvg-logo="https://lo1.in/LOGO/SPAIN/LaLigaTV%20Bar.png" group-title="EU | SPAIN",LALIGATV BAR
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="LALIGATV BAR" tvg-logo="https://lo1.in/LOGO/SPAIN/LaLigaTV%20Bar.png" group-title="SPAIN",LALIGATV BAR
 http://t365.in:900/4802947531/2688022740/400220778
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LALIGA" tvg-logo="https://lo1.in/LOGO/SPAIN/M-LALIGA.png" group-title="EU | SPAIN",M. LALIGA
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LALIGA" tvg-logo="https://lo1.in/LOGO/SPAIN/M-LALIGA.png" group-title="SPAIN",M. LALIGA
 http://t365.in:900/4802947531/2688022740/165970
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_1_.png" group-title="EU | SPAIN",M. LALIGA 1
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_1_.png" group-title="SPAIN",M. LALIGA 1
 http://t365.in:900/4802947531/2688022740/165971
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA  2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_2.png" group-title="EU | SPAIN",M. LALIGA  2
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA  2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_2.png" group-title="SPAIN",M. LALIGA  2
 http://t365.in:900/4802947531/2688022740/5971
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_3.png" group-title="EU | SPAIN",M. LALIGA 3
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_3.png" group-title="SPAIN",M. LALIGA 3
 http://t365.in:900/4802947531/2688022740/5973
-#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="M. LALIGA 4" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_4.png" group-title="EU | SPAIN",M. LALIGA 4
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="M. LALIGA 4" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_4.png" group-title="SPAIN",M. LALIGA 4
 http://t365.in:900/4802947531/2688022740/400220785
-#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="M. LALIGA 6 [LIVEEVENT]" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_6.png" group-title="EU | SPAIN",M. LALIGA 6 [LIVEEVENT]
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="M. LALIGA 6 [LIVEEVENT]" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_6.png" group-title="SPAIN",M. LALIGA 6 [LIVEEVENT]
 http://t365.in:900/4802947531/2688022740/400220783
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M. DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M. DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES
 http://t365.in:900/4802947531/2688022740/165974
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M. DEPORTES 1" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES 1
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M. DEPORTES 1" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES 1
 http://t365.in:900/4802947531/2688022740/400220795
-#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="M. DEPORTES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES 2
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="M. DEPORTES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES 2
 http://t365.in:900/4802947531/2688022740/155790
-#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="M. DEPORTES 3" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES 3
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="M. DEPORTES 3" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES 3
 http://t365.in:900/4802947531/2688022740/155791
-#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="M. DEPORTES 5" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES 5
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="M. DEPORTES 5" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES 5
 http://t365.in:900/4802947531/2688022740/400220793
-#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="M. DEPORTES6 (LIVEEVEENT)" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M. DEPORTES6 (LIVEEVEENT)
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="M. DEPORTES6 (LIVEEVEENT)" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M. DEPORTES6 (LIVEEVEENT)
 http://t365.in:900/4802947531/2688022740/400220792
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M. LCAMPEONS" tvg-logo="https://lo1.in/LOGO/SPAIN/LIGADECAMPEONES.png" group-title="EU | SPAIN",M. LCAMPEONS
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M. LCAMPEONS" tvg-logo="https://lo1.in/LOGO/SPAIN/LIGADECAMPEONES.png" group-title="SPAIN",M. LCAMPEONS
 http://t365.in:900/4802947531/2688022740/165968
-#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M. LCAMPEON 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 1
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M. LCAMPEON 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 1
 http://t365.in:900/4802947531/2688022740/375701
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M. LCAMPEON 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 2
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M. LCAMPEON 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 2
 http://t365.in:900/4802947531/2688022740/375702
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="M. LCAMPEON 3 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 3 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="M. LCAMPEON 3 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 3 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/400173248
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="M. LCAMPEON 4 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 4 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="M. LCAMPEON 4 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 4 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/400173249
-#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="M. LCAMPEON 5 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 5 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="M. LCAMPEON 5 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 5 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/400173250
-#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="M. LCAMPEON 6 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 6 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="M. LCAMPEON 6 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 6 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/400173251
-#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="M. LCAMPEON 7 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 7 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="M. LCAMPEON 7 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 7 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/400173252
-#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="M. LCAMPEON 8 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M. LCAMPEON 8 (SOLO EVENTO)
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="M. LCAMPEON 8 (SOLO EVENTO)" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M. LCAMPEON 8 (SOLO EVENTO)
 http://t365.in:900/4802947531/2688022740/400173253
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦  MOVIESTAR ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦  MOVIESTAR ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦  MOVIESTAR ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦  MOVIESTAR ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171850
-#EXTINF:-1 tvg-id="" tvg-name="M. VACACIONES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.VACACIONES.png" group-title="EU | SPAIN",M. VACACIONES
+#EXTINF:-1 tvg-id="" tvg-name="M. VACACIONES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.VACACIONES.png" group-title="SPAIN",M. VACACIONES
 http://t365.in:900/4802947531/2688022740/400241681
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="EU | SPAIN",M. ACCION
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="SPAIN",M. ACCION
 http://t365.in:900/4802947531/2688022740/165941
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M. CINE ESPAÃNOL" tvg-logo="https://lo1.in/LOGO/SPAIN/M.CINEESP.png" group-title="EU | SPAIN",M. CINE ESPAÃNOL
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M. CINE ESPAÃNOL" tvg-logo="https://lo1.in/LOGO/SPAIN/M.CINEESP.png" group-title="SPAIN",M. CINE ESPAÃNOL
 http://t365.in:900/4802947531/2688022740/165945
-#EXTINF:-1 tvg-id="" tvg-name="M. CL.SICOS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Clasicos.png" group-title="EU | SPAIN",M. CL.SICOS
+#EXTINF:-1 tvg-id="" tvg-name="M. CL.SICOS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Clasicos.png" group-title="SPAIN",M. CL.SICOS
 http://t365.in:900/4802947531/2688022740/400233592
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Comedia.png" group-title="EU | SPAIN",M. COMEDIA
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Comedia.png" group-title="SPAIN",M. COMEDIA
 http://t365.in:900/4802947531/2688022740/165942
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M. DRAMA" tvg-logo="https://lo1.in/LOGO/SPAIN/MDRAMA.png" group-title="EU | SPAIN",M. DRAMA
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M. DRAMA" tvg-logo="https://lo1.in/LOGO/SPAIN/MDRAMA.png" group-title="SPAIN",M. DRAMA
 http://t365.in:900/4802947531/2688022740/165943
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M. ESTRENOS" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="EU | SPAIN",M. ESTRENOS
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M. ESTRENOS" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="SPAIN",M. ESTRENOS
 http://t365.in:900/4802947531/2688022740/165940
-#EXTINF:-1 tvg-id="" tvg-name="M. FEST" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="EU | SPAIN",M. FEST
+#EXTINF:-1 tvg-id="" tvg-name="M. FEST" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="SPAIN",M. FEST
 http://t365.in:900/4802947531/2688022740/362314
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="EU | SPAIN",M. SERIES 2
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="SPAIN",M. SERIES 2
 http://t365.in:900/4802947531/2688022740/165952
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="M. SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/MOVISTARSERIESMANIA.png" group-title="EU | SPAIN",M. SERIES
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="M. SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/MOVISTARSERIESMANIA.png" group-title="SPAIN",M. SERIES
 http://t365.in:900/4802947531/2688022740/165946
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ NEWS ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ NEWS ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ NEWS ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ NEWS ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171881
-#EXTINF:-1 tvg-id="foxnews.es" tvg-name="FOX NEWS" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXNEWS.png" group-title="EU | SPAIN",FOX NEWS
+#EXTINF:-1 tvg-id="foxnews.es" tvg-name="FOX NEWS" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXNEWS.png" group-title="SPAIN",FOX NEWS
 http://t365.in:900/4802947531/2688022740/165936
-#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ARAGON TV INT" tvg-logo="https://lo1.in/LOGO/SPAIN/ARAGON.png" group-title="EU | SPAIN",ARAGON TV INT
+#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ARAGON TV INT" tvg-logo="https://lo1.in/LOGO/SPAIN/ARAGON.png" group-title="SPAIN",ARAGON TV INT
 http://t365.in:900/4802947531/2688022740/400163682
-#EXTINF:-1 tvg-id="" tvg-name="I24 FRANCIS" tvg-logo="https://lo1.in/LOGO/SPAIN/I24NEWS.png" group-title="EU | SPAIN",I24 FRANCIS
+#EXTINF:-1 tvg-id="" tvg-name="I24 FRANCIS" tvg-logo="https://lo1.in/LOGO/SPAIN/I24NEWS.png" group-title="SPAIN",I24 FRANCIS
 http://t365.in:900/4802947531/2688022740/165926
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MUSIK ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ MUSIK ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MUSIK ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ MUSIK ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171851
-#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="https://lo1.in/LOGO/SPAIN/CLASSICA.png" group-title="EU | SPAIN",CLASSICA
+#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="https://lo1.in/LOGO/SPAIN/CLASSICA.png" group-title="SPAIN",CLASSICA
 http://t365.in:900/4802947531/2688022740/166005
-#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE" tvg-logo="https://lo1.in/LOGO/SPAIN/MEZZOLIVEHD.png" group-title="EU | SPAIN",MEZZO LIVE
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE" tvg-logo="https://lo1.in/LOGO/SPAIN/MEZZOLIVEHD.png" group-title="SPAIN",MEZZO LIVE
 http://t365.in:900/4802947531/2688022740/166006
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPANA" tvg-logo="https://lo1.in/LOGO/SPAIN/MTV_Espa%C3%B1a.png" group-title="EU | SPAIN",MTV ESPANA
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPANA" tvg-logo="https://lo1.in/LOGO/SPAIN/MTV_Espa%C3%B1a.png" group-title="SPAIN",MTV ESPANA
 http://t365.in:900/4802947531/2688022740/166004
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",MULTIDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",MULTIDEPORTE
 http://t365.in:900/4802947531/2688022740/165976
-#EXTINF:-1 tvg-id="" tvg-name="SOL" tvg-logo="https://lo1.in/LOGO/SPAIN/SOL.png" group-title="EU | SPAIN",SOL
+#EXTINF:-1 tvg-id="" tvg-name="SOL" tvg-logo="https://lo1.in/LOGO/SPAIN/SOL.png" group-title="SPAIN",SOL
 http://t365.in:900/4802947531/2688022740/400220807
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="TELEDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/TELEDEPORTE.png" group-title="EU | SPAIN",TELEDEPORTE
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="TELEDEPORTE" tvg-logo="https://lo1.in/LOGO/SPAIN/TELEDEPORTE.png" group-title="SPAIN",TELEDEPORTE
 http://t365.in:900/4802947531/2688022740/165978
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTERTAINMENT  ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ ENTERTAINMENT  ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTERTAINMENT  ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ ENTERTAINMENT  ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171882
-#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="https://lo1.in/LOGO/SPAIN/AMCHD.png" group-title="EU | SPAIN",AMC
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="https://lo1.in/LOGO/SPAIN/AMCHD.png" group-title="SPAIN",AMC
 http://t365.in:900/4802947531/2688022740/165961
-#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNHD.png" group-title="EU | SPAIN",AXN
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNHD.png" group-title="SPAIN",AXN
 http://t365.in:900/4802947531/2688022740/165955
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNWHITEHD.png" group-title="EU | SPAIN",AXN WHITE
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNWHITEHD.png" group-title="SPAIN",AXN WHITE
 http://t365.in:900/4802947531/2688022740/165956
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="https://lo1.in/LOGO/SPAIN/CALLE13HD.png" group-title="EU | SPAIN",CALLE 13
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="https://lo1.in/LOGO/SPAIN/CALLE13HD.png" group-title="SPAIN",CALLE 13
 http://t365.in:900/4802947531/2688022740/165963
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALDECASA.png" group-title="EU | SPAIN",CANAL DECASA
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALDECASA.png" group-title="SPAIN",CANAL DECASA
 http://t365.in:900/4802947531/2688022740/165960
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL" tvg-logo="https://lo1.in/LOGO/SPAIN/COMEDYCENTRALHD.png" group-title="EU | SPAIN",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL" tvg-logo="https://lo1.in/LOGO/SPAIN/COMEDYCENTRALHD.png" group-title="SPAIN",COMEDY CENTRAL
 http://t365.in:900/4802947531/2688022740/165959
-#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="https://lo1.in/LOGO/SPAIN/DARK.png" group-title="EU | SPAIN",DARK
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK" tvg-logo="https://lo1.in/LOGO/SPAIN/DARK.png" group-title="SPAIN",DARK
 http://t365.in:900/4802947531/2688022740/400278978
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="https://lo1.in/LOGO/SPAIN/DREAMWORKS.png" group-title="EU | SPAIN",DREAMWORKS
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="https://lo1.in/LOGO/SPAIN/DREAMWORKS.png" group-title="SPAIN",DREAMWORKS
 http://t365.in:900/4802947531/2688022740/400219954
-#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXHD.png" group-title="EU | SPAIN",FOX
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXHD.png" group-title="SPAIN",FOX
 http://t365.in:900/4802947531/2688022740/165953
-#EXTINF:-1 tvg-id="foxlife.es" tvg-name="FOX LIFE" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXLIFEHD.png" group-title="EU | SPAIN",FOX LIFE
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="FOX LIFE" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXLIFEHD.png" group-title="SPAIN",FOX LIFE
 http://t365.in:900/4802947531/2688022740/165954
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="https://lo1.in/LOGO/SPAIN/HOLLYWOODHD.png" group-title="EU | SPAIN",HOLLYWOOD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="https://lo1.in/LOGO/SPAIN/HOLLYWOODHD.png" group-title="SPAIN",HOLLYWOOD
 http://t365.in:900/4802947531/2688022740/165947
-#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="https://lo1.in/LOGO/SPAIN/nova.png" group-title="EU | SPAIN",NOVA
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="https://lo1.in/LOGO/SPAIN/nova.png" group-title="SPAIN",NOVA
 http://t365.in:900/4802947531/2688022740/165933
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/PARAMOUNT.png" group-title="EU | SPAIN",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/PARAMOUNT.png" group-title="SPAIN",PARAMOUNT CHANNEL
 http://t365.in:900/4802947531/2688022740/165950
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="https://lo1.in/LOGO/SPAIN/SUNDANCE.png" group-title="EU | SPAIN",SUNDANCE
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="https://lo1.in/LOGO/SPAIN/SUNDANCE.png" group-title="SPAIN",SUNDANCE
 http://t365.in:900/4802947531/2688022740/165958
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="https://lo1.in/LOGO/SPAIN/SYFYHD.png" group-title="EU | SPAIN",SYFY
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="https://lo1.in/LOGO/SPAIN/SYFYHD.png" group-title="SPAIN",SYFY
 http://t365.in:900/4802947531/2688022740/165957
-#EXTINF:-1 tvg-id="telesur.es" tvg-name="TELESUR" tvg-logo="https://lo1.in/LOGO/SPAIN/telesur.png" group-title="EU | SPAIN",TELESUR
+#EXTINF:-1 tvg-id="telesur.es" tvg-name="TELESUR" tvg-logo="https://lo1.in/LOGO/SPAIN/telesur.png" group-title="SPAIN",TELESUR
 http://t365.in:900/4802947531/2688022740/165938
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="https://lo1.in/LOGO/SPAIN/TNTHD.png" group-title="EU | SPAIN",TNT
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="https://lo1.in/LOGO/SPAIN/TNTHD.png" group-title="SPAIN",TNT
 http://t365.in:900/4802947531/2688022740/165949
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="https://lo1.in/LOGO/SPAIN/TCMHD.png" group-title="EU | SPAIN",TCM
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="https://lo1.in/LOGO/SPAIN/TCMHD.png" group-title="SPAIN",TCM
 http://t365.in:900/4802947531/2688022740/165948
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CULTURA  ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ CULTURA  ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CULTURA  ✦●✦ " tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ CULTURA  ✦●✦ 
 http://t365.in:900/4802947531/2688022740/171883
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="https://lo1.in/LOGO/SPAIN/Dkiss.png" group-title="EU | SPAIN",DKISS
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="https://lo1.in/LOGO/SPAIN/Dkiss.png" group-title="SPAIN",DKISS
 http://t365.in:900/4802947531/2688022740/381610
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="DMAX" tvg-logo="https://lo1.in/LOGO/SPAIN/DMAX.png" group-title="EU | SPAIN",DMAX
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="DMAX" tvg-logo="https://lo1.in/LOGO/SPAIN/DMAX.png" group-title="SPAIN",DMAX
 http://t365.in:900/4802947531/2688022740/5611
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="https://lo1.in/LOGO/SPAIN/BLAZE.png" group-title="EU | SPAIN",BLAZE
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="https://lo1.in/LOGO/SPAIN/BLAZE.png" group-title="SPAIN",BLAZE
 http://t365.in:900/4802947531/2688022740/165993
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA &amp; PESCA " tvg-logo="https://lo1.in/LOGO/SPAIN/CAZAYPESCAHD.png" group-title="EU | SPAIN",CAZA &amp; PESCA 
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA &amp; PESCA " tvg-logo="https://lo1.in/LOGO/SPAIN/CAZAYPESCAHD.png" group-title="SPAIN",CAZA &amp; PESCA 
 http://t365.in:900/4802947531/2688022740/165990
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="https://lo1.in/LOGO/SPAIN/CLANTVE.png" group-title="EU | SPAIN",CLAN TVE
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="https://lo1.in/LOGO/SPAIN/CLANTVE.png" group-title="SPAIN",CLAN TVE
 http://t365.in:900/4802947531/2688022740/165932
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="https://lo1.in/LOGO/SPAIN/COSMOHD.png" group-title="EU | SPAIN",COSMO
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="https://lo1.in/LOGO/SPAIN/COSMOHD.png" group-title="SPAIN",COSMO
 http://t365.in:900/4802947531/2688022740/165962
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="CRIMEN INVESTIGACION" tvg-logo="https://lo1.in/LOGO/SPAIN/CRIMENYINVES.png" group-title="EU | SPAIN",CRIMEN INVESTIGACION
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="CRIMEN INVESTIGACION" tvg-logo="https://lo1.in/LOGO/SPAIN/CRIMENYINVES.png" group-title="SPAIN",CRIMEN INVESTIGACION
 http://t365.in:900/4802947531/2688022740/165989
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISCOVERY.png" group-title="EU | SPAIN",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISCOVERY.png" group-title="SPAIN",DISCOVERY CHANNEL
 http://t365.in:900/4802947531/2688022740/165987
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORIA DE FICCION" tvg-logo="https://lo1.in/LOGO/SPAIN/FACTORIADEFICCION.png" group-title="EU | SPAIN",FACTORIA DE FICCION
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORIA DE FICCION" tvg-logo="https://lo1.in/LOGO/SPAIN/FACTORIADEFICCION.png" group-title="SPAIN",FACTORIA DE FICCION
 http://t365.in:900/4802947531/2688022740/165988
-#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="https://lo1.in/LOGO/SPAIN/HISTORIA.png" group-title="EU | SPAIN",HISTORIA
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="https://lo1.in/LOGO/SPAIN/HISTORIA.png" group-title="SPAIN",HISTORIA
 http://t365.in:900/4802947531/2688022740/165994
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOWILD.png" group-title="EU | SPAIN",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOWILD.png" group-title="SPAIN",NAT GEO WILD
 http://t365.in:900/4802947531/2688022740/165985
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOHD.png" group-title="EU | SPAIN",NAT GEOGRAPHIC
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOHD.png" group-title="SPAIN",NAT GEOGRAPHIC
 http://t365.in:900/4802947531/2688022740/165986
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR" tvg-logo="https://lo1.in/LOGO/SPAIN/VIAJARHD.png" group-title="EU | SPAIN",VIAJAR
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR" tvg-logo="https://lo1.in/LOGO/SPAIN/VIAJARHD.png" group-title="SPAIN",VIAJAR
 http://t365.in:900/4802947531/2688022740/165995
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALCOCINA.png" group-title="EU | SPAIN",CANAL COCINA
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALCOCINA.png" group-title="SPAIN",CANAL COCINA
 http://t365.in:900/4802947531/2688022740/165991
-#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="https://lo1.in/LOGO/SPAIN/TOROSHD.png" group-title="EU | SPAIN",TOROS
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="https://lo1.in/LOGO/SPAIN/TOROSHD.png" group-title="SPAIN",TOROS
 http://t365.in:900/4802947531/2688022740/165992
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ALQUILER PPV ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ ALQUILER PPV ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ALQUILER PPV ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ ALQUILER PPV ✦●✦
 http://t365.in:900/4802947531/2688022740/400220777
-#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ALQUILER 1" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="EU | SPAIN",ALQUILER 1
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ALQUILER 1" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 1
 http://t365.in:900/4802947531/2688022740/400220776
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="EU | SPAIN",ALQUILER 2
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 2
 http://t365.in:900/4802947531/2688022740/400220775
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="EU | SPAIN",ALQUILER 3
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 3
 http://t365.in:900/4802947531/2688022740/400220774
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="EU | SPAIN",ALQUILER 4
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 4
 http://t365.in:900/4802947531/2688022740/400220773
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="EU | SPAIN",ALQUILER 5
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 5
 http://t365.in:900/4802947531/2688022740/400220772
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 6" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="EU | SPAIN",ALQUILER 6
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 6" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 6
 http://t365.in:900/4802947531/2688022740/400220771
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 7" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="EU | SPAIN",ALQUILER 7
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 7" tvg-logo="https://lo1.in/LOGO/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 7
 http://t365.in:900/4802947531/2688022740/400220770
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ SPAIN ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ SPAIN ✦●✦
 http://t365.in:900/4802947531/2688022740/400365553
-#EXTINF:-1 tvg-id="" tvg-name="M+ #0" tvg-logo="https://lo1.in/LOGO/SPAIN/%230.png" group-title="EU | SPAIN",M+ #0
+#EXTINF:-1 tvg-id="" tvg-name="M+ #0" tvg-logo="https://lo1.in/LOGO/SPAIN/%230.png" group-title="SPAIN",M+ #0
 http://t365.in:900/4802947531/2688022740/400218264
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS" tvg-logo="https://lo1.in/LOGO/SPAIN/VAMOSHD.png" group-title="EU | SPAIN",#VAMOS
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS" tvg-logo="https://lo1.in/LOGO/SPAIN/VAMOSHD.png" group-title="SPAIN",#VAMOS
 http://t365.in:900/4802947531/2688022740/400218245
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/ANTENA3HD.png" group-title="EU | SPAIN",ANTENA 3
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/ANTENA3HD.png" group-title="SPAIN",ANTENA 3
 http://t365.in:900/4802947531/2688022740/400218268
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="EU | SPAIN",BE MAD
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="" group-title="SPAIN",BE MAD
 http://t365.in:900/4802947531/2688022740/1237
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="EU | SPAIN",24 HORAS
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="SPAIN",24 HORAS
 http://t365.in:900/4802947531/2688022740/1238
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/LOGO/SPAIN/CUATROHD.png" group-title="EU | SPAIN",CUATRO
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/LOGO/SPAIN/CUATROHD.png" group-title="SPAIN",CUATRO
 http://t365.in:900/4802947531/2688022740/400218267
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="EU | SPAIN",ENERGY
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="SPAIN",ENERGY
 http://t365.in:900/4802947531/2688022740/1210
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR" tvg-logo="" group-title="EU | SPAIN",CANAL SUR
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR" tvg-logo="" group-title="SPAIN",CANAL SUR
 http://t365.in:900/4802947531/2688022740/1233
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR ANDALUCÍA" tvg-logo="" group-title="EU | SPAIN",CANAL SUR ANDALUCÍA
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR ANDALUCÍA" tvg-logo="" group-title="SPAIN",CANAL SUR ANDALUCÍA
 http://t365.in:900/4802947531/2688022740/1234
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/LA1HD.png" group-title="EU | SPAIN",LA 1
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/LA1HD.png" group-title="SPAIN",LA 1
 http://t365.in:900/4802947531/2688022740/400218269
-#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="EU | SPAIN",LA 2
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="SPAIN",LA 2
 http://t365.in:900/4802947531/2688022740/1239
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/LOGO/SPAIN/LASEXTAHD.png" group-title="EU | SPAIN",LA SEXTA
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/LOGO/SPAIN/LASEXTAHD.png" group-title="SPAIN",LA SEXTA
 http://t365.in:900/4802947531/2688022740/400218265
-#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" group-title="EU | SPAIN",NEOX
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" group-title="SPAIN",NEOX
 http://t365.in:900/4802947531/2688022740/1226
-#EXTINF:-1 tvg-id="" tvg-name="TVG EUROPA" tvg-logo="" group-title="EU | SPAIN",TVG EUROPA
+#EXTINF:-1 tvg-id="" tvg-name="TVG EUROPA" tvg-logo="" group-title="SPAIN",TVG EUROPA
 http://t365.in:900/4802947531/2688022740/1252
-#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXHD.png" group-title="EU | SPAIN",FOX
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXHD.png" group-title="SPAIN",FOX
 http://t365.in:900/4802947531/2688022740/400218262
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/LOGO/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN",TELECINCO
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/LOGO/SPAIN/TELECINCOHD.png" group-title="SPAIN",TELECINCO
 http://t365.in:900/4802947531/2688022740/400218266
-#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="EU | SPAIN",XTRM
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="SPAIN",XTRM
 http://t365.in:900/4802947531/2688022740/1219
-#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3CAT" tvg-logo="https://lo1.in/LOGO/SPAIN/TV3CAT.png" group-title="EU | SPAIN",TV3CAT
+#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3CAT" tvg-logo="https://lo1.in/LOGO/SPAIN/TV3CAT.png" group-title="SPAIN",TV3CAT
 http://t365.in:900/4802947531/2688022740/5674
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CÁDIZ" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSIERRADEC%C3%81DIZ.png" group-title="EU | SPAIN",CANAL SIERRA DE CÁDIZ
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CÁDIZ" tvg-logo="https://lo1.in/LOGO/SPAIN/CANALSIERRADEC%C3%81DIZ.png" group-title="SPAIN",CANAL SIERRA DE CÁDIZ
 http://t365.in:900/4802947531/2688022740/5668
-#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="EU | SPAIN",MEGA
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="SPAIN",MEGA
 http://t365.in:900/4802947531/2688022740/1215
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="Atreseries" tvg-logo="https://lo1.in/LOGO/SPAIN/VIAJARHD.png" group-title="EU | SPAIN",Atreseries
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="Atreseries" tvg-logo="https://lo1.in/LOGO/SPAIN/VIAJARHD.png" group-title="SPAIN",Atreseries
 http://t365.in:900/4802947531/2688022740/400218229
-#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="EU | SPAIN",BOM CINE
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="SPAIN",BOM CINE
 http://t365.in:900/4802947531/2688022740/1228
-#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA" tvg-logo="" group-title="EU | SPAIN",TV GALICIA
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA" tvg-logo="" group-title="SPAIN",TV GALICIA
 http://t365.in:900/4802947531/2688022740/1229
-#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="EU | SPAIN",SOMOS
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="SPAIN",SOMOS
 http://t365.in:900/4802947531/2688022740/1222
-#EXTINF:-1 tvg-id="" tvg-name="M+ HASH0" tvg-logo="" group-title="EU | SPAIN",M+ HASH0
+#EXTINF:-1 tvg-id="" tvg-name="M+ HASH0" tvg-logo="" group-title="SPAIN",M+ HASH0
 http://t365.in:900/4802947531/2688022740/1269
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ KIDS ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ KIDS ✦●✦
 http://t365.in:900/4802947531/2688022740/400365554
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="EU | SPAIN",BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="SPAIN",BABY TV
 http://t365.in:900/4802947531/2688022740/1206
-#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="EU | SPAIN",BOING
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="SPAIN",BOING
 http://t365.in:900/4802947531/2688022740/1205
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" group-title="EU | SPAIN",CANAL PANDA
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="" group-title="SPAIN",CANAL PANDA
 http://t365.in:900/4802947531/2688022740/1204
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYHD.png" group-title="EU | SPAIN",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL" tvg-logo="https://lo1.in/LOGO/SPAIN/DISNEYHD.png" group-title="SPAIN",DISNEY CHANNEL
 http://t365.in:900/4802947531/2688022740/400230641
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="EU | SPAIN",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="SPAIN",DISNEY JUNIOR
 http://t365.in:900/4802947531/2688022740/1208
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="EU | SPAIN",NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="SPAIN",NICK JR
 http://t365.in:900/4802947531/2688022740/1207
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="https://lo1.in/LOGO/SPAIN/NICKELODEONHD.png" group-title="EU | SPAIN",NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="https://lo1.in/LOGO/SPAIN/NICKELODEONHD.png" group-title="SPAIN",NICKELODEON
 http://t365.in:900/4802947531/2688022740/400219953
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORT ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦SPORT ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORT ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦SPORT ✦●✦
 http://t365.in:900/4802947531/2688022740/400365555
-#EXTINF:-1 tvg-id="daznf14k.es" tvg-name="DAZN F1" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN",DAZN F1
+#EXTINF:-1 tvg-id="daznf14k.es" tvg-name="DAZN F1" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="SPAIN",DAZN F1
 http://t365.in:900/4802947531/2688022740/400218225
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="EU | SPAIN",DAZN 1
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN1.png" group-title="SPAIN",DAZN 1
 http://t365.in:900/4802947531/2688022740/400218246
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN2.png" group-title="EU | SPAIN",DAZN 2
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN2.png" group-title="SPAIN",DAZN 2
 http://t365.in:900/4802947531/2688022740/400218228
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3.png" group-title="EU | SPAIN",DAZN 3
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN3.png" group-title="SPAIN",DAZN 3
 http://t365.in:900/4802947531/2688022740/400218227
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4.png" group-title="EU | SPAIN",DAZN 4
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4" tvg-logo="https://lo1.in/LOGO/SPAIN/DAZN4.png" group-title="SPAIN",DAZN 4
 http://t365.in:900/4802947531/2688022740/400218226
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT1.png" group-title="EU | SPAIN",EUROSPORT 1
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT1.png" group-title="SPAIN",EUROSPORT 1
 http://t365.in:900/4802947531/2688022740/400218235
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT2.png" group-title="EU | SPAIN",EUROSPORT 2
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/LOGO/SPAIN/EUROSPORT2.png" group-title="SPAIN",EUROSPORT 2
 http://t365.in:900/4802947531/2688022740/400218234
-#EXTINF:-1 tvg-id="" tvg-name="UBEAT" tvg-logo="" group-title="EU | SPAIN",UBEAT
+#EXTINF:-1 tvg-id="" tvg-name="UBEAT" tvg-logo="" group-title="SPAIN",UBEAT
 http://t365.in:900/4802947531/2688022740/1220
-#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="EU | SPAIN",GOL
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="SPAIN",GOL
 http://t365.in:900/4802947531/2688022740/1242
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M+ GOLF" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png" group-title="EU | SPAIN",M+ GOLF
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M+ GOLF" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png" group-title="SPAIN",M+ GOLF
 http://t365.in:900/4802947531/2688022740/400218236
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/MULTIDEPORTE.png" group-title="EU | SPAIN",M+ DEPORTES
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M+ DEPORTES" tvg-logo="https://lo1.in/LOGO/SPAIN/MULTIDEPORTE.png" group-title="SPAIN",M+ DEPORTES
 http://t365.in:900/4802947531/2688022740/400218240
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M+ DEPORTES 1" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M+ DEPORTES 1
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M+ DEPORTES 1" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M+ DEPORTES 1
 http://t365.in:900/4802947531/2688022740/400218239
-#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="M+ DEPORTES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/DEPORTES%202.png" group-title="EU | SPAIN",M+ DEPORTES 2
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="M+ DEPORTES 2" tvg-logo="https://lo1.in/LOGO/SPAIN/DEPORTES%202.png" group-title="SPAIN",M+ DEPORTES 2
 http://t365.in:900/4802947531/2688022740/400218238
-#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="M+ DEPORTES 3" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN",M+ DEPORTES 3
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="M+ DEPORTES 3" tvg-logo="https://lo1.in/LOGO/SPAIN/M.DEPORTE1HD.png" group-title="SPAIN",M+ DEPORTES 3
 http://t365.in:900/4802947531/2688022740/400218237
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4" tvg-logo="" group-title="EU | SPAIN",M+ DEPORTES 4
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4" tvg-logo="" group-title="SPAIN",M+ DEPORTES 4
 http://t365.in:900/4802947531/2688022740/1248
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5" tvg-logo="" group-title="EU | SPAIN",M+ DEPORTES 5
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5" tvg-logo="" group-title="SPAIN",M+ DEPORTES 5
 http://t365.in:900/4802947531/2688022740/1247
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6" tvg-logo="" group-title="EU | SPAIN",M+ DEPORTES 6
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6" tvg-logo="" group-title="SPAIN",M+ DEPORTES 6
 http://t365.in:900/4802947531/2688022740/1246
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 01" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 01
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 01" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 01
 http://t365.in:900/4802947531/2688022740/1263
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 02" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 02
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 02" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 02
 http://t365.in:900/4802947531/2688022740/1262
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 03" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 03
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 03" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 03
 http://t365.in:900/4802947531/2688022740/1261
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 04" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 04
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 04" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 04
 http://t365.in:900/4802947531/2688022740/1260
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 05" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 05
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 05" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 05
 http://t365.in:900/4802947531/2688022740/1259
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 06" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 06
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 06" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 06
 http://t365.in:900/4802947531/2688022740/1258
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 07" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 07
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 07" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 07
 http://t365.in:900/4802947531/2688022740/1257
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 08" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 08
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 08" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 08
 http://t365.in:900/4802947531/2688022740/1256
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 09" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 09
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 09" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 09
 http://t365.in:900/4802947531/2688022740/1255
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 12" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 12
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 12" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 12
 http://t365.in:900/4802947531/2688022740/1264
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 11" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 11
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 11" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 11
 http://t365.in:900/4802947531/2688022740/1265
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 10" tvg-logo="" group-title="EU | SPAIN",M+ LIGA DE CAMPEONES 10
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 10" tvg-logo="" group-title="SPAIN",M+ LIGA DE CAMPEONES 10
 http://t365.in:900/4802947531/2688022740/1266
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA" tvg-logo="https://lo1.in/LOGO/SPAIN/M-LALIGA.png" group-title="EU | SPAIN",M+ LALIGA
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M+ LALIGA" tvg-logo="https://lo1.in/LOGO/SPAIN/M-LALIGA.png" group-title="SPAIN",M+ LALIGA
 http://t365.in:900/4802947531/2688022740/400218244
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M+ LALIGA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_1_.png" group-title="EU | SPAIN",M+ LALIGA 1
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M+ LALIGA 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_1_.png" group-title="SPAIN",M+ LALIGA 1
 http://t365.in:900/4802947531/2688022740/400218243
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M+ LALIGA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_2.png" group-title="EU | SPAIN",M+ LALIGA 2
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M+ LALIGA 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_2.png" group-title="SPAIN",M+ LALIGA 2
 http://t365.in:900/4802947531/2688022740/400218242
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M+ LALIGA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_3.png" group-title="EU | SPAIN",M+ LALIGA 3
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M+ LALIGA 3" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_LaLiga_3.png" group-title="SPAIN",M+ LALIGA 3
 http://t365.in:900/4802947531/2688022740/400218241
-#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 4" tvg-logo="" group-title="EU | SPAIN",M+ LALIGA 4
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 4" tvg-logo="" group-title="SPAIN",M+ LALIGA 4
 http://t365.in:900/4802947531/2688022740/1250
-#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5" tvg-logo="" group-title="EU | SPAIN",M+ LALIGA 5
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5" tvg-logo="" group-title="SPAIN",M+ LALIGA 5
 http://t365.in:900/4802947531/2688022740/1249
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M.L CAMPEONES" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M.L CAMPEONES
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M.L CAMPEONES" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M.L CAMPEONES
 http://t365.in:900/4802947531/2688022740/400218282
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M.LCAMPEON 1
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M.LCAMPEON 1
 http://t365.in:900/4802947531/2688022740/400230645
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="EU | SPAIN",M.LCAMPEON 2
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 2" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M.LCAMPEON 2
 http://t365.in:900/4802947531/2688022740/400230644
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 3" tvg-logo="https://lo1.in/LOGO/SPAIN/SENDER.png" group-title="EU | SPAIN",M.LCAMPEON 3
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 3" tvg-logo="https://lo1.in/LOGO/SPAIN/SENDER.png" group-title="SPAIN",M.LCAMPEON 3
 http://t365.in:900/4802947531/2688022740/400230643
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 4" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport9.png" group-title="EU | SPAIN",M.LCAMPEON 4
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 4" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport9.png" group-title="SPAIN",M.LCAMPEON 4
 http://t365.in:900/4802947531/2688022740/400218278
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 5" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport8.png" group-title="EU | SPAIN",M.LCAMPEON 5
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 5" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport8.png" group-title="SPAIN",M.LCAMPEON 5
 http://t365.in:900/4802947531/2688022740/400218277
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 6" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport7.png" group-title="EU | SPAIN",M.LCAMPEON 6
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 6" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport7.png" group-title="SPAIN",M.LCAMPEON 6
 http://t365.in:900/4802947531/2688022740/400218276
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 7" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport6.png" group-title="EU | SPAIN",M.LCAMPEON 7
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 7" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport6.png" group-title="SPAIN",M.LCAMPEON 7
 http://t365.in:900/4802947531/2688022740/400218275
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 8" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport5.png" group-title="EU | SPAIN",M.LCAMPEON 8
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 8" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport5.png" group-title="SPAIN",M.LCAMPEON 8
 http://t365.in:900/4802947531/2688022740/400218274
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 9" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport4.png" group-title="EU | SPAIN",M.LCAMPEON 9
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 9" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport4.png" group-title="SPAIN",M.LCAMPEON 9
 http://t365.in:900/4802947531/2688022740/400218273
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 10" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport3.png" group-title="EU | SPAIN",M.LCAMPEON 10
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 10" tvg-logo="https://lo1.in/LOGO/SPAIN/eurosport3.png" group-title="SPAIN",M.LCAMPEON 10
 http://t365.in:900/4802947531/2688022740/400218272
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 12" tvg-logo="" group-title="EU | SPAIN",M.LCAMPEON 12
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 12" tvg-logo="" group-title="SPAIN",M.LCAMPEON 12
 http://t365.in:900/4802947531/2688022740/1244
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 11" tvg-logo="" group-title="EU | SPAIN",M.LCAMPEON 11
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 11" tvg-logo="" group-title="SPAIN",M.LCAMPEON 11
 http://t365.in:900/4802947531/2688022740/1245
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ MOVIESTAR ✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR ✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ MOVIESTAR ✦●✦
 http://t365.in:900/4802947531/2688022740/400365556
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="https://lo1.in/LOGO/SPAIN/DREAMWORKS.png" group-title="EU | SPAIN",DREAMWORKS
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="https://lo1.in/LOGO/SPAIN/DREAMWORKS.png" group-title="SPAIN",DREAMWORKS
 http://t365.in:900/4802947531/2688022740/400218271
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="EU | SPAIN",M+ ACCION
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ACCIONHD.png" group-title="SPAIN",M+ ACCION
 http://t365.in:900/4802947531/2688022740/400218251
-#EXTINF:-1 tvg-id="" tvg-name="M+ CL.SICOS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Clasicos.png" group-title="EU | SPAIN",M+ CL.SICOS
+#EXTINF:-1 tvg-id="" tvg-name="M+ CL.SICOS" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Clasicos.png" group-title="SPAIN",M+ CL.SICOS
 http://t365.in:900/4802947531/2688022740/400233591
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA" tvg-logo="https://lo1.in/LOGO/SPAIN/M.%20COMEDIA%20HD.png" group-title="EU | SPAIN",M+ COMEDIA
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA" tvg-logo="https://lo1.in/LOGO/SPAIN/M.%20COMEDIA%20HD.png" group-title="SPAIN",M+ COMEDIA
 http://t365.in:900/4802947531/2688022740/400218250
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA" tvg-logo="https://lo1.in/LOGO/SPAIN/MDRAMA.png" group-title="EU | SPAIN",M+ DRAMA
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA" tvg-logo="https://lo1.in/LOGO/SPAIN/MDRAMA.png" group-title="SPAIN",M+ DRAMA
 http://t365.in:900/4802947531/2688022740/400218249
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ESTRENOSHD.png" group-title="EU | SPAIN",M+ ESTRENOS
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ESTRENOSHD.png" group-title="SPAIN",M+ ESTRENOS
 http://t365.in:900/4802947531/2688022740/400218252
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M+ SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="EU | SPAIN",M+ SERIES
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M+ SERIES" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="SPAIN",M+ SERIES
 http://t365.in:900/4802947531/2688022740/400218263
-#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ESTRENOSHD.png" group-title="EU | SPAIN",M.ESTRENOS 2
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.ESTRENOSHD.png" group-title="SPAIN",M.ESTRENOS 2
 http://t365.in:900/4802947531/2688022740/400218281
-#EXTINF:-1 tvg-id="" tvg-name="M.SERIE 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="EU | SPAIN",M.SERIE 2
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIE 2" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="SPAIN",M.SERIE 2
 http://t365.in:900/4802947531/2688022740/400218279
-#EXTINF:-1 tvg-id="" tvg-name="M. FEST" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="EU | SPAIN",M. FEST
+#EXTINF:-1 tvg-id="" tvg-name="M. FEST" tvg-logo="https://lo1.in/LOGO/SPAIN/M.Fest.png" group-title="SPAIN",M. FEST
 http://t365.in:900/4802947531/2688022740/400230642
-#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2" tvg-logo="" group-title="EU | SPAIN",M+ SERIES 2
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2" tvg-logo="" group-title="SPAIN",M+ SERIES 2
 http://t365.in:900/4802947531/2688022740/1254
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS" tvg-logo="" group-title="EU | SPAIN",M+ CLÁSICOS
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS" tvg-logo="" group-title="SPAIN",M+ CLÁSICOS
 http://t365.in:900/4802947531/2688022740/1268
-#EXTINF:-1 tvg-id="" tvg-name="M+ OSCARS" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="EU | SPAIN",M+ OSCARS
+#EXTINF:-1 tvg-id="" tvg-name="M+ OSCARS" tvg-logo="https://lo1.in/LOGO/SPAIN/M.SERIESHD.png" group-title="SPAIN",M+ OSCARS
 http://t365.in:900/4802947531/2688022740/400230646
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="M+ La Resistencia" tvg-logo="https://lo1.in/LOGO/SPAIN/MFORMULA1.png" group-title="EU | SPAIN",M+ La Resistencia
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="M+ La Resistencia" tvg-logo="https://lo1.in/LOGO/SPAIN/MFORMULA1.png" group-title="SPAIN",M+ La Resistencia
 http://t365.in:900/4802947531/2688022740/400218270
-#EXTINF:-1 tvg-id="" tvg-name="M+ Cine Español" tvg-logo="https://lo1.in/LOGO/SPAIN/PORTADA.png" group-title="EU | SPAIN",M+ Cine Español
+#EXTINF:-1 tvg-id="" tvg-name="M+ Cine Español" tvg-logo="https://lo1.in/LOGO/SPAIN/PORTADA.png" group-title="SPAIN",M+ Cine Español
 http://t365.in:900/4802947531/2688022740/400220316
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦MUSICA✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦MUSICA✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦MUSICA✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦MUSICA✦●✦
 http://t365.in:900/4802947531/2688022740/400365566
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="EU | SPAIN",TELEDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="SPAIN",TELEDEPORTE
 http://t365.in:900/4802947531/2688022740/1243
-#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="https://lo1.in/LOGO/SPAIN/CLASSICA.png" group-title="EU | SPAIN",CLASSICA
+#EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA" tvg-logo="https://lo1.in/LOGO/SPAIN/CLASSICA.png" group-title="SPAIN",CLASSICA
 http://t365.in:900/4802947531/2688022740/400218280
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="EU | SPAIN",MTV
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="SPAIN",MTV
 http://t365.in:900/4802947531/2688022740/1203
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00S" tvg-logo="" group-title="EU | SPAIN",MTV 00S
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00S" tvg-logo="" group-title="SPAIN",MTV 00S
 http://t365.in:900/4802947531/2688022740/1202
-#EXTINF:-1 tvg-id="" tvg-name="SOL MÚSICA" tvg-logo="" group-title="EU | SPAIN",SOL MÚSICA
+#EXTINF:-1 tvg-id="" tvg-name="SOL MÚSICA" tvg-logo="" group-title="SPAIN",SOL MÚSICA
 http://t365.in:900/4802947531/2688022740/1201
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦ ENTRETENIMIENTO✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦ ENTRETENIMIENTO✦●✦
 http://t365.in:900/4802947531/2688022740/400365564
-#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="" group-title="EU | SPAIN",DARK
+#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="" group-title="SPAIN",DARK
 http://t365.in:900/4802947531/2688022740/1227
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="https://lo1.in/LOGO/SPAIN/SYFYHD.png" group-title="EU | SPAIN",SYFY
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="https://lo1.in/LOGO/SPAIN/SYFYHD.png" group-title="SPAIN",SYFY
 http://t365.in:900/4802947531/2688022740/400218253
-#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="https://lo1.in/LOGO/SPAIN/AMCHD.png" group-title="EU | SPAIN",AMC
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="https://lo1.in/LOGO/SPAIN/AMCHD.png" group-title="SPAIN",AMC
 http://t365.in:900/4802947531/2688022740/400218256
-#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="https://lo1.in/LOGO/SPAIN/AXN.png" group-title="EU | SPAIN",AXN
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="https://lo1.in/LOGO/SPAIN/AXN.png" group-title="SPAIN",AXN
 http://t365.in:900/4802947531/2688022740/400218261
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNWHITEHD.png" group-title="EU | SPAIN",AXN WHITE
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="https://lo1.in/LOGO/SPAIN/AXNWHITEHD.png" group-title="SPAIN",AXN WHITE
 http://t365.in:900/4802947531/2688022740/400218254
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="https://lo1.in/LOGO/SPAIN/CALLE13HD.png" group-title="EU | SPAIN",CALLE 13
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="https://lo1.in/LOGO/SPAIN/CALLE13HD.png" group-title="SPAIN",CALLE 13
 http://t365.in:900/4802947531/2688022740/400218258
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="EU | SPAIN",CANAL DECASA
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="SPAIN",CANAL DECASA
 http://t365.in:900/4802947531/2688022740/1211
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL" tvg-logo="https://lo1.in/LOGO/SPAIN/COMEDYCENTRALHD.png" group-title="EU | SPAIN",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL" tvg-logo="https://lo1.in/LOGO/SPAIN/COMEDYCENTRALHD.png" group-title="SPAIN",COMEDY CENTRAL
 http://t365.in:900/4802947531/2688022740/400218259
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="https://lo1.in/LOGO/SPAIN/COSMOHD.png" group-title="EU | SPAIN",COSMO
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="https://lo1.in/LOGO/SPAIN/COSMOHD.png" group-title="SPAIN",COSMO
 http://t365.in:900/4802947531/2688022740/400218257
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="https://lo1.in/LOGO/SPAIN/HOLLYWOODHD.png" group-title="EU | SPAIN",HOLLYWOOD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="https://lo1.in/LOGO/SPAIN/HOLLYWOODHD.png" group-title="SPAIN",HOLLYWOOD
 http://t365.in:900/4802947531/2688022740/400218247
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="" group-title="EU | SPAIN",SUNDANCE
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="" group-title="SPAIN",SUNDANCE
 http://t365.in:900/4802947531/2688022740/1221
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="EU | SPAIN",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="SPAIN",PARAMOUNT CHANNEL
 http://t365.in:900/4802947531/2688022740/1223
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="https://lo1.in/LOGO/SPAIN/TCMHD.png" group-title="EU | SPAIN",TCM
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="https://lo1.in/LOGO/SPAIN/TCMHD.png" group-title="SPAIN",TCM
 http://t365.in:900/4802947531/2688022740/400218248
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="https://lo1.in/LOGO/SPAIN/TNTHD.png" group-title="EU | SPAIN",TNT
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="https://lo1.in/LOGO/SPAIN/TNTHD.png" group-title="SPAIN",TNT
 http://t365.in:900/4802947531/2688022740/400218260
-#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="EU | SPAIN",FDF
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="SPAIN",FDF
 http://t365.in:900/4802947531/2688022740/1209
-#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="EU | SPAIN",NOVA
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="SPAIN",NOVA
 http://t365.in:900/4802947531/2688022740/1224
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="EU | SPAIN",✦●✦CULTURA✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA✦●✦" tvg-logo="https://lo1.in/LOGO/SPAIN/SPAIN.png" group-title="SPAIN",✦●✦CULTURA✦●✦
 http://t365.in:900/4802947531/2688022740/400365565
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="EU | SPAIN",CANAL COCINA
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="SPAIN",CANAL COCINA
 http://t365.in:900/4802947531/2688022740/1212
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA" tvg-logo="https://lo1.in/LOGO/SPAIN/CAZAYPESCAHD.png" group-title="EU | SPAIN",CAZA Y PESCA
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA" tvg-logo="https://lo1.in/LOGO/SPAIN/CAZAYPESCAHD.png" group-title="SPAIN",CAZA Y PESCA
 http://t365.in:900/4802947531/2688022740/400218233
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="" group-title="EU | SPAIN",ODISEA
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="" group-title="SPAIN",ODISEA
 http://t365.in:900/4802947531/2688022740/1214
-#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="" group-title="EU | SPAIN",CLAN TVE
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="" group-title="SPAIN",CLAN TVE
 http://t365.in:900/4802947531/2688022740/1232
-#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+ INVESTIGACIÓN" tvg-logo="" group-title="EU | SPAIN",CRIMEN+ INVESTIGACIÓN
+#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+ INVESTIGACIÓN" tvg-logo="" group-title="SPAIN",CRIMEN+ INVESTIGACIÓN
 http://t365.in:900/4802947531/2688022740/1218
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="EU | SPAIN",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="SPAIN",DISCOVERY
 http://t365.in:900/4802947531/2688022740/1217
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="EU | SPAIN",DIVINITY
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="SPAIN",DIVINITY
 http://t365.in:900/4802947531/2688022740/1225
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="EU | SPAIN",HISTORIA
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="SPAIN",HISTORIA
 http://t365.in:900/4802947531/2688022740/1213
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOHD.png" group-title="EU | SPAIN",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOHD.png" group-title="SPAIN",NATIONAL GEOGRAPHIC
 http://t365.in:900/4802947531/2688022740/400218231
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOWILD.png" group-title="EU | SPAIN",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://lo1.in/LOGO/SPAIN/NATGEOWILD.png" group-title="SPAIN",NATIONAL GEOGRAPHIC WILD
 http://t365.in:900/4802947531/2688022740/400218230
-#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="https://lo1.in/LOGO/SPAIN/TOROSHD.png" group-title="EU | SPAIN",TOROS
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="https://lo1.in/LOGO/SPAIN/TOROSHD.png" group-title="SPAIN",TOROS
 http://t365.in:900/4802947531/2688022740/400218232
-#EXTINF:-1 tvg-id="" tvg-name="ARAGÓN TV INT" tvg-logo="" group-title="EU | SPAIN",ARAGÓN TV INT
+#EXTINF:-1 tvg-id="" tvg-name="ARAGÓN TV INT" tvg-logo="" group-title="SPAIN",ARAGÓN TV INT
 http://t365.in:900/4802947531/2688022740/1236
-#EXTINF:-1 tvg-id="foxlife.es" tvg-name="Nautical Channel" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXLIFEHD.png" group-title="EU | SPAIN",Nautical Channel
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="Nautical Channel" tvg-logo="https://lo1.in/LOGO/SPAIN/FOXLIFEHD.png" group-title="SPAIN",Nautical Channel
 http://t365.in:900/4802947531/2688022740/400218255
-#EXTINF:-1 tvg-id="" tvg-name="FACTORÍA DE FICCIÓN" tvg-logo="" group-title="EU | SPAIN",FACTORÍA DE FICCIÓN
+#EXTINF:-1 tvg-id="" tvg-name="FACTORÍA DE FICCIÓN" tvg-logo="" group-title="SPAIN",FACTORÍA DE FICCIÓN
 http://t365.in:900/4802947531/2688022740/1267
-#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="" group-title="EU | SPAIN",TELEMADRID
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="" group-title="SPAIN",TELEMADRID
 http://t365.in:900/4802947531/2688022740/1253
-#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="EU | SPAIN",EL TORO TV
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="SPAIN",EL TORO TV
 http://t365.in:900/4802947531/2688022740/1241
-#EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="" group-title="EU | SPAIN",HORSE TV
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="" group-title="SPAIN",HORSE TV
 http://t365.in:900/4802947531/2688022740/1240
-#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA SAT" tvg-logo="" group-title="EU | SPAIN",CANAL EXTREMADURA SAT
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA SAT" tvg-logo="" group-title="SPAIN",CANAL EXTREMADURA SAT
 http://t365.in:900/4802947531/2688022740/1235
-#EXTINF:-1 tvg-id="" tvg-name="EITB BASQUE" tvg-logo="" group-title="EU | SPAIN",EITB BASQUE
+#EXTINF:-1 tvg-id="" tvg-name="EITB BASQUE" tvg-logo="" group-title="SPAIN",EITB BASQUE
 http://t365.in:900/4802947531/2688022740/1231
-#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV" tvg-logo="" group-title="EU | SPAIN",NEGOCIOS TV
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV" tvg-logo="" group-title="SPAIN",NEGOCIOS TV
 http://t365.in:900/4802947531/2688022740/1230
