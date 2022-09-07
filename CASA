@@ -147,87 +147,111 @@ http://goodipf.co:8000/50994630576315/80873957614589/236743
 http://goodipf.co:8000/50994630576315/80873957614589/236742
 #EXTINF:-1 tvg-id="DAZN LaLiga2FHD" tvg-name="M. DAZN LA LIGA 2 FHD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 2 FHD
 http://goodipf.co:8000/50994630576315/80873957614589/236741
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="SPAIN",DAZN LA LIGA
-http://goodipf.co:8000/50994630576315/80873957614589/1745
-#EXTINF:-1 tvg-id="DAZN LaLiga2" tvg-name="DAZN LA LIGA 2HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="SPAIN",DAZN LA LIGA 2HD 
-http://goodipf.co:8000/50994630576315/80873957614589/1746
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN  1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="SPAIN",DAZN  1
-http://goodipf.co:8000/50994630576315/80873957614589/771
+http://goodipf.co:8000/50994630576315/80873957614589/236691
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="SPAIN",DAZN 2
-http://goodipf.co:8000/50994630576315/80873957614589/774
+http://goodipf.co:8000/50994630576315/80873957614589/236688
 #EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="SPAIN",DAZN 3
-http://goodipf.co:8000/50994630576315/80873957614589/1184
+http://goodipf.co:8000/50994630576315/80873957614589/236685
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="SPAIN",DAZN 4 
-http://goodipf.co:8000/50994630576315/80873957614589/1185
+http://goodipf.co:8000/50994630576315/80873957614589/236683
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="SPAIN",DAZN F1 
-http://goodipf.co:8000/50994630576315/80873957614589/43
-#EXTINF:-1 tvg-id="LA 1" tvg-name="M.LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPAIN",M.LA LIGA
-http://goodipf.co:8000/50994630576315/80873957614589/804
-#EXTINF:-1 tvg-id="M. LaLiga 1" tvg-name="M.LA LIGA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="SPAIN",M.LA LIGA 1
-http://goodipf.co:8000/50994630576315/80873957614589/44
-#EXTINF:-1 tvg-id="M. LaLiga 2" tvg-name="M.LA LIGA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="SPAIN",M.LA LIGA 2
-http://goodipf.co:8000/50994630576315/80873957614589/1186
-#EXTINF:-1 tvg-id="M. LaLiga 3" tvg-name="M.LA LIGA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="SPAIN",M.LA LIGA 3
-http://goodipf.co:8000/50994630576315/80873957614589/1187
-#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="M.LALIGA 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="SPAIN",M.LALIGA 4
-http://goodipf.co:8000/50994630576315/80873957614589/126
-#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="M.LALIGA 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="SPAIN",M.LALIGA 5
-http://goodipf.co:8000/50994630576315/80873957614589/47
-#EXTINF:-1 tvg-id="M. LaLiga 6" tvg-name="M.LALIGA 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG6.png" group-title="SPAIN",M.LALIGA 6
-http://goodipf.co:8000/50994630576315/80873957614589/48
-#EXTINF:-1 tvg-id="M. LaLiga 7" tvg-name="M.LALIGA 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="SPAIN",M.LALIGA 7
-http://goodipf.co:8000/50994630576315/80873957614589/49
-#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="LigaSmartBank" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="SPAIN",LigaSmartBank
-http://goodipf.co:8000/50994630576315/80873957614589/1750
-#EXTINF:-1 tvg-id="DAZN LaLiga2" tvg-name="LigaSmartBank 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="SPAIN",LigaSmartBank 2
-http://goodipf.co:8000/50994630576315/80873957614589/1749
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="SPAIN",Liga SmartBank 3
-http://goodipf.co:8000/50994630576315/80873957614589/1751
-#EXTINF:-1 tvg-id="LA 1" tvg-name="MOVISTAR CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="SPAIN",MOVISTAR CAMPEONES
-http://goodipf.co:8000/50994630576315/80873957614589/708
-#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="SPAIN",M.LCAMPEON 1
-http://goodipf.co:8000/50994630576315/80873957614589/128
-#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="SPAIN",M.LCAMPEON 2
-http://goodipf.co:8000/50994630576315/80873957614589/130
-#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="SPAIN",M.LCAMPEON 3
-http://goodipf.co:8000/50994630576315/80873957614589/68
-#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="SPAIN",M.LCAMPEON 4
-http://goodipf.co:8000/50994630576315/80873957614589/1397
-#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="SPAIN",M.LCAMPEON 5
-http://goodipf.co:8000/50994630576315/80873957614589/69
-#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="SPAIN",M.LCAMPEON 6
-http://goodipf.co:8000/50994630576315/80873957614589/70
-#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="SPAIN",M.LCAMPEON 7
-http://goodipf.co:8000/50994630576315/80873957614589/71
-#EXTINF:-1 tvg-id="M+LCAMPEON8" tvg-name="M.LCAMPEON 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" group-title="SPAIN",M.LCAMPEON 8
-http://goodipf.co:8000/50994630576315/80873957614589/1667
-#EXTINF:-1 tvg-id="M+LCAMPEON9" tvg-name="M.LCAMPEON 9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG9.png" group-title="SPAIN",M.LCAMPEON 9
-http://goodipf.co:8000/50994630576315/80873957614589/1668
-#EXTINF:-1 tvg-id="M+LCAMPEON10" tvg-name="M.LCAMPEON 10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG10.png" group-title="SPAIN",M.LCAMPEON 10
-http://goodipf.co:8000/50994630576315/80873957614589/1669
+http://goodipf.co:8000/50994630576315/80873957614589/236695
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA SD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR  LA LIGA SD
+http://goodipf.co:8000/50994630576315/80873957614589/236740
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD ?" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR LA LIGA HD ?
+http://goodipf.co:8000/50994630576315/80873957614589/236739
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA FHD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR LA LIGA FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236738
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA FHD H.265" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR  LA LIGA FHD H.265
+http://goodipf.co:8000/50994630576315/80873957614589/236737
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA (OP B)" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR LA LIGA (OP B)
+http://goodipf.co:8000/50994630576315/80873957614589/236736
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR SD ?" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="SPAIN",LALIGATV BAR SD ?
+http://goodipf.co:8000/50994630576315/80873957614589/236735
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="SPAIN",LA LIGA TV BAR HD
+http://goodipf.co:8000/50994630576315/80873957614589/236734
+#EXTINF:-1 tvg-id="" tvg-name="LIGATV BAR FHD" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="SPAIN",LIGATV BAR FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236733
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1( SOLO EVENTO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR LA LIGA 1( SOLO EVENTO)
+http://goodipf.co:8000/50994630576315/80873957614589/236732
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR LA LIGA 1 HD
+http://goodipf.co:8000/50994630576315/80873957614589/236731
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 FHD " tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR LA LIGA 1 FHD 
+http://goodipf.co:8000/50994630576315/80873957614589/236730
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 HD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR LA LIGA 2 HD
+http://goodipf.co:8000/50994630576315/80873957614589/236729
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 2 FHD" tvg-logo="http://xtitan.xyz:2082/images/de1cfd334d52a0f07bf9ce446bdccc4a.png" group-title="SPAIN",MOVISTAR  LA LIGA 2 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236728
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 3 SD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR  LA LIGA 3 SD
+http://goodipf.co:8000/50994630576315/80873957614589/236727
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR LA LIGA 3 HD
+http://goodipf.co:8000/50994630576315/80873957614589/236726
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR LA LIGA 3 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236725
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 4 HD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="SPAIN",MOVISTAR  LA LIGA 4 HD
+http://goodipf.co:8000/50994630576315/80873957614589/236724
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR LA LIGA 4 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236723
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 5 SD" tvg-logo="http://xtitan.xyz:2082/images/7e9dab50e6fba180ad93b9ed27155082.png" group-title="SPAIN",MOVISTAR  LA LIGA 5 SD
+http://goodipf.co:8000/50994630576315/80873957614589/236722
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR LA LIGA 5 HD
+http://goodipf.co:8000/50994630576315/80873957614589/236721
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR LA LIGA 5 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236720
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",MOVISTAR  LA LIGA 6 HD
+http://goodipf.co:8000/50994630576315/80873957614589/236719
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES SD ?" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="SPAIN",MOVISTAR LIGA CAMPEONES SD ?
+http://goodipf.co:8000/50994630576315/80873957614589/236718
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="9http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="SPAIN",MOVISTAR LIGA CAMPEONES HD
+http://goodipf.co:8000/50994630576315/80873957614589/236717
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES HD(OP B)" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="SPAIN",MOVISTAR LIGA CAMPEONES HD(OP B)
+http://goodipf.co:8000/50994630576315/80873957614589/236716
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="SPAIN",MOVISTAR LIGA CAMPEONES FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236715
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES FHD (OP B)" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="SPAIN",MOVISTAR LIGA CAMPEONES FHD (OP B)
+http://goodipf.co:8000/50994630576315/80873957614589/236714
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 1 SD
+http://goodipf.co:8000/50994630576315/80873957614589/236713
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA CAMPEONES 1 HD ?" tvg-logo="http://xtitan.xyz:2082/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="SPAIN",MOVISTAR LIGA CAMPEONES 1 HD ?
+http://goodipf.co:8000/50994630576315/80873957614589/236712
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236711
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 2 SD
+http://goodipf.co:8000/50994630576315/80873957614589/236710
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236709
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 3
+http://goodipf.co:8000/50994630576315/80873957614589/236708
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 4
+http://goodipf.co:8000/50994630576315/80873957614589/236707
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 5
+http://goodipf.co:8000/50994630576315/80873957614589/236706
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 6
+http://goodipf.co:8000/50994630576315/80873957614589/236705
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 7
+http://goodipf.co:8000/50994630576315/80873957614589/236704
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 8
+http://goodipf.co:8000/50994630576315/80873957614589/236703
 #EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M. DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="SPAIN",M. DEPORTES
-http://goodipf.co:8000/50994630576315/80873957614589/31
+http://goodipf.co:8000/50994630576315/80873957614589/236760
 #EXTINF:-1 tvg-id="M+DEPORTES1HD" tvg-name="M.DEPORTES 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="SPAIN",M.DEPORTES 1
-http://goodipf.co:8000/50994630576315/80873957614589/41
+http://goodipf.co:8000/50994630576315/80873957614589/236757
 #EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="SPAIN",M. DEPORTES2
-http://goodipf.co:8000/50994630576315/80873957614589/27
+http://goodipf.co:8000/50994630576315/80873957614589/236755
 #EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="SPAIN",M. DEPORTES 3
-http://goodipf.co:8000/50994630576315/80873957614589/28
+http://goodipf.co:8000/50994630576315/80873957614589/236753
 #EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="SPAIN",M. DEPORTES 4
-http://goodipf.co:8000/50994630576315/80873957614589/29
+http://goodipf.co:8000/50994630576315/80873957614589/236751
 #EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="SPAIN",M. DEPORTES 5
-http://goodipf.co:8000/50994630576315/80873957614589/30
+http://goodipf.co:8000/50994630576315/80873957614589/236748
 #EXTINF:-1 tvg-id="M. GOLF" tvg-name="M. GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="SPAIN",M. GOLF
-http://goodipf.co:8000/50994630576315/80873957614589/118
+http://goodipf.co:8000/50994630576315/80873957614589/236701
 #EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/581.png" group-title="SPAIN",EUROSPORT 1HD
-http://goodipf.co:8000/50994630576315/80873957614589/20
+http://goodipf.co:8000/50994630576315/80873957614589/236680
 #EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="SPAIN",EUROSPORT 2
-http://goodipf.co:8000/50994630576315/80873957614589/97
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="SPAIN",R. MADRID TV
-http://goodipf.co:8000/50994630576315/80873957614589/141
-#EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARCA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="SPAIN",BARCA TV
-http://goodipf.co:8000/50994630576315/80873957614589/6
+http://goodipf.co:8000/50994630576315/80873957614589/236678
 #EXTINF:-1 tvg-id="GOL" tvg-name="GOL TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="SPAIN",GOL TV
-http://goodipf.co:8000/50994630576315/80873957614589/22
+http://goodipf.co:8000/50994630576315/80873957614589/30144
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="SPAIN",TELEDEPORTE
-http://goodipf.co:8000/50994630576315/80873957614589/62
+http://goodipf.co:8000/50994630576315/80873957614589/236677
