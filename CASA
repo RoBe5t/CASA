@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1419.png" group-title="SPAIN",LA 1
-http://goodipf.co:8000/50994630576315/80873957614589/106
+http://goodipf.co:8000/50994630576315/80873957614589/236901
 #EXTINF:-1 tvg-id="La 2" tvg-name="LA 2" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/511.png" group-title="SPAIN",LA 2
 http://goodipf.co:8000/50994630576315/80873957614589/107
 #EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/448.png" group-title="SPAIN",ANTENA 3
