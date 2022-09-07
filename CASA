@@ -136,7 +136,17 @@ http://goodipf.co:8000/50994630576315/80873957614589/236619
 #EXTINF:-1 tvg-id="M+ELLAS #V" tvg-name="M.ELLAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="SPAIN",M.ELLAS
 http://goodipf.co:8000/50994630576315/80873957614589/236810
 #EXTINF:-1 tvg-id="#VAMOS" tvg-name="#VAMOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="SPAIN",#VAMOS
-http://goodipf.co:8000/50994630576315/80873957614589/236764	
+http://goodipf.co:8000/50994630576315/80873957614589/236764
+#EXTINF:-1 tvg-id="DAZN LaLigaSD" tvg-name="M. DAZN LA LIGA 1 SD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 1 SD
+http://goodipf.co:8000/50994630576315/80873957614589/236745
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M. DAZN LA LIGA 1 HD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 1 HD
+http://goodipf.co:8000/50994630576315/80873957614589/236744
+#EXTINF:-1 tvg-id="DAZN LaLigaFHD" tvg-name="M. DAZN LA LIGA 1 FHD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 1 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236743
+#EXTINF:-1 tvg-id="DAZN LaLiga2SD" tvg-name="M. DAZN LA LIGA 2 SD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 2 SD
+http://goodipf.co:8000/50994630576315/80873957614589/236742
+#EXTINF:-1 tvg-id="DAZN LaLiga2FHD" tvg-name="M. DAZN LA LIGA 2 FHD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 2 FHD
+http://goodipf.co:8000/50994630576315/80873957614589/236741
 #EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="SPAIN",DAZN LA LIGA
 http://goodipf.co:8000/50994630576315/80873957614589/1745
 #EXTINF:-1 tvg-id="DAZN LaLiga2" tvg-name="DAZN LA LIGA 2HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="SPAIN",DAZN LA LIGA 2HD 
