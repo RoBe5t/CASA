@@ -94,9 +94,9 @@ http://ottmo.co:8000/50994630576315/80873957614589/30182
 #EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/530.png" group-title="SPAIN",HOLLYWOOD
 http://ottmo.co:8000/50994630576315/80873957614589/30140
 #EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="SPAIN",HISTORIA
-http://ottmo.co:8000/50994630576315/80873957614589/236658
+http://ottmo.co:8000/50994630576315/80873957614589/30143
 #EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="SPAIN",ODISEA 
-http://ottmo.co:8000/50994630576315/80873957614589/236650
+http://ottmo.co:8000/50994630576315/80873957614589/30067
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/discovery_logo.png" group-title="SPAIN",DISCOVERY
 http://ottmo.co:8000/50994630576315/80873957614589/30165
 #EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEOGRAPHIC" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/571.png" group-title="SPAIN",NAT GEOGRAPHIC
@@ -108,35 +108,29 @@ http://ottmo.co:8000/50994630576315/80873957614589/101598
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="SPAIN",BLAZE
 http://ottmo.co:8000/50994630576315/80873957614589/30183
 #EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="CAZAyPESCA" tvg-logo="https://www.movistarplus.es/recorte/e/original/d73625a38d72d19aa72696c8bf5a2bce" group-title="SPAIN",CAZAyPESCA
-http://ottmo.co:8000/50994630576315/80873957614589/236637
+http://ottmo.co:8000/50994630576315/80873957614589/30178
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="SPAIN",IBERALIA TV
-http://ottmo.co:8000/50994630576315/80873957614589/236635
+http://ottmo.co:8000/50994630576315/80873957614589/30139
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="SPAIN",CANAL COCINA
-http://ottmo.co:8000/50994630576315/80873957614589/236665
+http://ottmo.co:8000/50994630576315/80873957614589/30173
 #EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="SPAIN",CANAL DECASA
-http://ottmo.co:8000/50994630576315/80873957614589/236662
+http://ottmo.co:8000/50994630576315/80873957614589/30166
 #EXTINF:-1 tvg-id="TOROS" tvg-name="TOROS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="SPAIN",TOROS
-http://ottmo.co:8000/50994630576315/80873957614589/236640
+http://ottmo.co:8000/50994630576315/80873957614589/30109
 #EXTINF:-1 tvg-id="DreamWorks" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="SPAIN",DREAMWORKS
 http://ottmo.co:8000/50994630576315/80873957614589/236776
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/520.png" group-title="SPAIN",NICKELODEON
-http://ottmo.co:8000/50994630576315/80873957614589/236621
 #EXTINF:-1 tvg-id="DISNEY CH" tvg-name="DISNEY CHANEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="SPAIN",DISNEY CHANEL
-http://ottmo.co:8000/50994630576315/80873957614589/236617
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="SPAIN",DISNEY JR
-http://ottmo.co:8000/50994630576315/80873957614589/30164
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="SPAIN",NICK JR
-http://ottmo.co:8000/50994630576315/80873957614589/30070
+http://ottmo.co:8000/50994630576315/80873957614589/30113
 #EXTINF:-1 tvg-id="BOING" tvg-name="BOING" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="SPAIN",BOING
 http://ottmo.co:8000/50994630576315/80873957614589/30201
 #EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="SPAIN",CANAL PANDA
 http://ottmo.co:8000/50994630576315/80873957614589/30066
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="SPAIN",CLAN 
-http://ottmo.co:8000/50994630576315/80873957614589/236619
+http://ottmo.co:8000/50994630576315/80873957614589/30175
 #EXTINF:-1 tvg-id="M+ELLAS #V" tvg-name="M.ELLAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="SPAIN",M.ELLAS
-http://ottmo.co:8000/50994630576315/80873957614589/236810
+http://ottmo.co:8000/50994630576315/80873957614589/236811
 #EXTINF:-1 tvg-id="#VAMOS" tvg-name="#VAMOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="SPAIN",#VAMOS
-http://ottmo.co:8000/50994630576315/80873957614589/236764
+http://ottmo.co:8000/50994630576315/80873957614589/30108
 #EXTINF:-1 tvg-id="DAZN LaLigaSD" tvg-name="M. DAZN LA LIGA 1 SD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 1 SD
 http://ottmo.co:8000/50994630576315/80873957614589/236745
 #EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M. DAZN LA LIGA 1 HD" tvg-logo="" group-title="SPAIN",M. DAZN LA LIGA 1 HD
