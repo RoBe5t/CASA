@@ -249,3 +249,207 @@ http://ottmo.co:8000/50994630576315/80873957614589/236678
 http://ottmo.co:8000/50994630576315/80873957614589/30144
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="SPAIN",TELEDEPORTE
 http://ottmo.co:8000/50994630576315/80873957614589/236677
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="SPAIN",ES: M. LaLiga HD
+http://ottmo.co:8000/50994630576315/80873957614589/149070
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="ES: M.LALIGA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="SPAIN",ES: M.LALIGA
+http://ottmo.co:8000/50994630576315/80873957614589/30212
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M.LALIGA" tvg-logo="" group-title="SPAIN",M.LALIGA
+http://ottmo.co:8000/50994630576315/80873957614589/103244
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="M.LALIGA TV BAR HD" tvg-logo="" group-title="SPAIN",M.LALIGA TV BAR HD
+http://ottmo.co:8000/50994630576315/80873957614589/103306
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="M.LALIGA 1 FHD" tvg-logo="" group-title="SPAIN",M.LALIGA 1 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/103245
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M.LALIGA" tvg-logo="" group-title="SPAIN",M.LALIGA
+http://ottmo.co:8000/50994630576315/80873957614589/103305
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA FHD" tvg-logo="" group-title="SPAIN",M.LALIGA FHD
+http://ottmo.co:8000/50994630576315/80873957614589/103304
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="M.LALIGA 1 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 1 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103296
+#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="M.LALIGA 2 SD" tvg-logo="" group-title="SPAIN",M.LALIGA 2 SD
+http://ottmo.co:8000/50994630576315/80873957614589/103297
+#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="M.LALIGA 3 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 3 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103298
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 4 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 4 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103299
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 8 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 8 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103303
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 5 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 5 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103300
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 6 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 6 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103301
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 7 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 7 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103302
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M.LIGA DE CAMPEONES 1" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 1
+http://ottmo.co:8000/50994630576315/80873957614589/103307
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M.LIGA DE CAMPEONES 2" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 2
+http://ottmo.co:8000/50994630576315/80873957614589/103308
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M.LIGA DE CAMPEONES 2 HD" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 2 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103309
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 4" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 4
+http://ottmo.co:8000/50994630576315/80873957614589/103310
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 5" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 5
+http://ottmo.co:8000/50994630576315/80873957614589/103311
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 6" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 6
+http://ottmo.co:8000/50994630576315/80873957614589/103312
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 7" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 7
+http://ottmo.co:8000/50994630576315/80873957614589/103313
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 8" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 8
+http://ottmo.co:8000/50994630576315/80873957614589/103314
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES: MOVISTAR LALIGA HD
+http://ottmo.co:8000/50994630576315/80873957614589/30029
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="SPAIN",ES: M. LaLiga HD
+http://ottmo.co:8000/50994630576315/80873957614589/149070
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="ES: M.LALIGA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="SPAIN",ES: M.LALIGA
+http://ottmo.co:8000/50994630576315/80873957614589/30212
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M.LALIGA" tvg-logo="" group-title="SPAIN",M.LALIGA
+http://ottmo.co:8000/50994630576315/80873957614589/103244
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="M.LALIGA TV BAR HD" tvg-logo="" group-title="SPAIN",M.LALIGA TV BAR HD
+http://ottmo.co:8000/50994630576315/80873957614589/103306
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="M.LALIGA 1 FHD" tvg-logo="" group-title="SPAIN",M.LALIGA 1 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/103245
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M.LALIGA" tvg-logo="" group-title="SPAIN",M.LALIGA
+http://ottmo.co:8000/50994630576315/80873957614589/103305
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA FHD" tvg-logo="" group-title="SPAIN",M.LALIGA FHD
+http://ottmo.co:8000/50994630576315/80873957614589/103304
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="M.LALIGA 1 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 1 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103296
+#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="M.LALIGA 2 SD" tvg-logo="" group-title="SPAIN",M.LALIGA 2 SD
+http://ottmo.co:8000/50994630576315/80873957614589/103297
+#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="M.LALIGA 3 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 3 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103298
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 4 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 4 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103299
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 8 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 8 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103303
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 5 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 5 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103300
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 6 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 6 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103301
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 7 HD" tvg-logo="" group-title="SPAIN",M.LALIGA 7 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103302
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M.LIGA DE CAMPEONES 1" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 1
+http://ottmo.co:8000/50994630576315/80873957614589/103307
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M.LIGA DE CAMPEONES 2" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 2
+http://ottmo.co:8000/50994630576315/80873957614589/103308
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M.LIGA DE CAMPEONES 2 HD" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 2 HD
+http://ottmo.co:8000/50994630576315/80873957614589/103309
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 4" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 4
+http://ottmo.co:8000/50994630576315/80873957614589/103310
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 5" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 5
+http://ottmo.co:8000/50994630576315/80873957614589/103311
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 6" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 6
+http://ottmo.co:8000/50994630576315/80873957614589/103312
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 7" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 7
+http://ottmo.co:8000/50994630576315/80873957614589/103313
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 8" tvg-logo="" group-title="SPAIN",M.LIGA DE CAMPEONES 8
+http://ottmo.co:8000/50994630576315/80873957614589/103314
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAIN",ES: MOVISTAR LALIGA HD
+http://ottmo.co:8000/50994630576315/80873957614589/30029
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: MULTIDEPORTE" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" group-title="SPAIN",ES: MULTIDEPORTE
+http://ottmo.co:8000/50994630576315/80873957614589/30084
+#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="ES: M. DEPORTES1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="SPAIN",ES: M. DEPORTES1
+http://ottmo.co:8000/50994630576315/80873957614589/30037
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="SPAIN",ES: M. DEPORTES2
+http://ottmo.co:8000/50994630576315/80873957614589/30036
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES3" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAIN",ES: M. DEPORTES3
+http://ottmo.co:8000/50994630576315/80873957614589/30035
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES4" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAIN",ES: M. DEPORTES4
+http://ottmo.co:8000/50994630576315/80873957614589/30034
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES5" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAIN",ES: M. DEPORTES5
+http://ottmo.co:8000/50994630576315/80873957614589/30033
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES6" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAIN",ES: M. DEPORTES6
+http://ottmo.co:8000/50994630576315/80873957614589/30032
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES7" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAIN",ES: M. DEPORTES7
+http://ottmo.co:8000/50994630576315/80873957614589/30031
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: M. DEPORTESHD" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAIN",ES: M. DEPORTESHD
+http://ottmo.co:8000/50994630576315/80873957614589/30023
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="ES: LALIGATV BAR 1" tvg-logo="https://www.gamestop.es/wp-content/uploads/2019/04/La-Liga-TV.png" group-title="SPAIN",ES: LALIGATV BAR 1
+http://ottmo.co:8000/50994630576315/80873957614589/30119
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 4  Espa" tvg-logo="https://sportguide.live/images/stations/a1549.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 4  Espa
+http://ottmo.co:8000/50994630576315/80873957614589/30120
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="ES: LaLiga BAR FHD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="SPAIN",ES: LaLiga BAR FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30024
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES: LIGA CAMPEONES 2 HD" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/54/M_Liga-de-Campeones_2.png" group-title="SPAIN",ES: LIGA CAMPEONES 2 HD
+http://ottmo.co:8000/50994630576315/80873957614589/30026
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAIN",ES: LIGA CAMPEONES
+http://ottmo.co:8000/50994630576315/80873957614589/30025
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA DE CAMPEONES 1 Espa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAIN",ES: LIGA DE CAMPEONES 1 Espa
+http://ottmo.co:8000/50994630576315/80873957614589/30128
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA DE CAMPEONES 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAIN",ES: LIGA DE CAMPEONES 1 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30041
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 2  Espa" tvg-logo="https://sport-tv-guide.live/images/stations/a1460.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 2  Espa
+http://ottmo.co:8000/50994630576315/80873957614589/30127
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 3  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 3  Espa
+http://ottmo.co:8000/50994630576315/80873957614589/30126
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 5  Espa" tvg-logo="https://sportguide.live/images/stations/a1550.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 5  Espa
+http://ottmo.co:8000/50994630576315/80873957614589/30125
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 6  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 6  Espa
+http://ottmo.co:8000/50994630576315/80873957614589/30124
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 7  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 7  Espa
+http://ottmo.co:8000/50994630576315/80873957614589/30123
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 8 ESPA" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 8 ESPA
+http://ottmo.co:8000/50994630576315/80873957614589/30122
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAIN",ES: LIGA CAMPEONES
+http://ottmo.co:8000/50994630576315/80873957614589/30130
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES: LA LIGATV BAR" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="SPAIN",ES: LA LIGATV BAR
+http://ottmo.co:8000/50994630576315/80873957614589/30137
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M.LALIGA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="SPAIN",ES: M.LALIGA FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30202
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES: LIGA CAMPEONES 2 FHD" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/54/M_Liga-de-Campeones_2.png" group-title="SPAIN",ES: LIGA CAMPEONES 2 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30129
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="SPAIN",ES: LIGA DE CAMPEONES FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30121
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="ES: LALIGATV BAR FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UpaZNFGQt-WGwUznSDrP0wRKIm9V685HfouuTtJNOXlNFR20&s" group-title="SPAIN",ES: LALIGATV BAR FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30040
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES: MOVISTAR DEPORTES 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png" group-title="SPAIN",ES: MOVISTAR DEPORTES 1 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30102
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES: MOVISTAR F1 FHD" tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="SPAIN",ES: MOVISTAR F1 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30096
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="SPAIN",ES: MOVISTAR GOLF FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30095
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES: MOVISTAR VAMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1200px-Vamos.svg.png" group-title="SPAIN",ES: MOVISTAR VAMOS FHD
+http://ottmo.co:8000/50994630576315/80873957614589/30087
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters HD" tvg-logo="" group-title="SPAIN",ES: Footters HD
+http://ottmo.co:8000/50994630576315/80873957614589/149069
+#EXTINF:-1 tvg-id="" tvg-name="---------- DAZN ESPANA ----------" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" group-title="SPAIN",---------- DAZN ESPANA ----------
+http://ottmo.co:8000/50994630576315/80873957614589/90105
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana FHD" tvg-logo="" group-title="SPAIN",ES: Dazn 1 Espana FHD
+http://ottmo.co:8000/50994630576315/80873957614589/149075
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana HD" tvg-logo="" group-title="SPAIN",ES: Dazn 1 Espana HD
+http://ottmo.co:8000/50994630576315/80873957614589/149074
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana FHD" tvg-logo="" group-title="SPAIN",ES: Dazn 2 Espana FHD
+http://ottmo.co:8000/50994630576315/80873957614589/149073
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana HD" tvg-logo="" group-title="SPAIN",ES: Dazn 2 Espana HD
+http://ottmo.co:8000/50994630576315/80873957614589/149072
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 FHD" tvg-logo="" group-title="SPAIN",ES: M. Dazn 1 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/149068
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 FHD" tvg-logo="" group-title="SPAIN",ES: M. Dazn 2 FHD
+http://ottmo.co:8000/50994630576315/80873957614589/149067
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 SD" tvg-logo="" group-title="SPAIN",ES: M. Dazn 1 SD
+http://ottmo.co:8000/50994630576315/80873957614589/149066
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 SD" tvg-logo="" group-title="SPAIN",ES: M. Dazn 2 SD
+http://ottmo.co:8000/50994630576315/80873957614589/149065
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPAIN",ES: DAZN HD
+http://ottmo.co:8000/50994630576315/80873957614589/48681
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPAIN",ES: DAZN FHD
+http://ottmo.co:8000/50994630576315/80873957614589/48680
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN MOTO GP FHD" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="SPAIN",ES: DAZN MOTO GP FHD
+http://ottmo.co:8000/50994630576315/80873957614589/86823
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN MOTO GP HD" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="SPAIN",ES: DAZN MOTO GP HD
+http://ottmo.co:8000/50994630576315/80873957614589/86822
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 1 FHD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89366
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 2 FHD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89367
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 3 FHD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89368
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 4 FHD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89369
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 5 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 5 FHD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89370
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 5 HD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 5 HD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89371
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 6 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 6 FHD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89372
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 7 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 7 FHD PPV
+http://ottmo.co:8000/50994630576315/80873957614589/89373
