@@ -453,3 +453,37 @@ http://ottmo.co:8000/50994630576315/80873957614589/89371
 http://ottmo.co:8000/50994630576315/80873957614589/89372
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 7 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAIN",ES: DAZN 7 FHD PPV
 http://ottmo.co:8000/50994630576315/80873957614589/89373
+#EXTINF:-1,group-title="Peliculas", tren bala HD
+https://archive.org/download/el-tren/el%20tren.mkv
+#EXTINF:-1,group-title="Peliculas", tren bala 
+https://archive.org/download/trenviaje/Bullet%20Train%20%282022%29%20%5BBluRay%20Rip%5D%5BAC3%205.1%20Castellano%5D%5Bwww.nucleohd.com%5D.avi
+#EXTINF:-1,group-title="Peliculas",imperio del fuego
+https://ia601405.us.archive.org/19/items/fuego_20220926/Fuego.mkv
+
+#EXTINF:-1,group-title="Peliculas" puertas
+https://archive.org/download/puertas_202209/Puertas.mkv
+#EXTINF:-1,group-title="Peliculas",cuentos
+https://ia601507.us.archive.org/8/items/cuentos_202209/Cuentos.avi
+#EXTINF:-1,group-title="Peliculas" black phone
+https://ia601406.us.archive.org/6/items/comunion-2.mkv/Comunion2.mkv.mp4
+
+#EXTINF:-1,group-title="Peliculas" silent nigth
+https://archive.org/download/comunion.mkv/Comunio%CC%81n.mkv.mkv
+#EXTINF:-1,group-title="Peliculas"playa de tiburones
+http://vod.tuxchannel.tv:80/peliculas/720/shark%20beach%20with%20chris%20hemsworth%202021.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/93/95/83/20318892.jpg" group-title="Peliculas Viejas",Silent Hill: Revelation (2012)
+http://vod.tuxchannel.tv/peliculas/720/silent%20hill%20revelation.mkv
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="RAKUTEN",Rakuten Comedy Movies | España
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="RAKUTEN",Rakuten Action Movies | España
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="RAKUTEN",Rakuten TV Familia | España
+http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NOTICIAS",Rakuten NOTICIAS | España
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroNewsEspanol.fr" group-title="NOTICIAS",euronews
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
