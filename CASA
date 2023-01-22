@@ -1,37 +1,37 @@
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN ✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="SPAIN",✦●✦ SPAIN ✦●✦
-http://iptv365.xyz:80/9188867323/7127412743/400365553
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="SPAIN",LA 1
+http://iptv365.xyz:80/9188867323/7127412743/400218269
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://lo1.in/sp/la2.png" group-title="SPAIN",LA 2
+http://iptv365.xyz:80/9188867323/7127412743/1239
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="SPAIN",ANTENA 3
+http://iptv365.xyz:80/9188867323/7127412743/400218268
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/sp/cuatro.png" group-title="SPAIN",CUATRO
+http://iptv365.xyz:80/9188867323/7127412743/400218267
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/sp/telecinhd.png" group-title="SPAIN",TELECINCO
+http://iptv365.xyz:80/9188867323/7127412743/400218266
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/sp/sextahd.png" group-title="SPAIN",LA SEXTA
+http://iptv365.xyz:80/9188867323/7127412743/400218265
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="TELEMADRID" tvg-logo="https://lo1.in/sp/telemad.png" group-title="SPAIN",TELEMADRID
+http://iptv365.xyz:80/9188867323/7127412743/1253
 #EXTINF:-1 tvg-id="" tvg-name="M+ #0" tvg-logo="https://lo1.in/sp/0.png" group-title="SPAIN",M+ #0
 http://iptv365.xyz:80/9188867323/7127412743/400218264
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ #VAMOS" tvg-logo="https://lo1.in/sp/vamhd.png" group-title="SPAIN",M+ #VAMOS
 http://iptv365.xyz:80/9188867323/7127412743/400218245
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/sp/antena3hd.png" group-title="SPAIN",ANTENA 3
-http://iptv365.xyz:80/9188867323/7127412743/400218268
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="https://lo1.in/sp/bamad.png" group-title="SPAIN",BE MAD
 http://iptv365.xyz:80/9188867323/7127412743/1237
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="https://lo1.in/sp/24hrs.png" group-title="SPAIN",CANAL 24 HORAS
 http://iptv365.xyz:80/9188867323/7127412743/1238
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/sp/cuatro.png" group-title="SPAIN",CUATRO
-http://iptv365.xyz:80/9188867323/7127412743/400218267
 #EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="https://lo1.in/sp/enrg.png" group-title="SPAIN",ENERGY
 http://iptv365.xyz:80/9188867323/7127412743/1210
 #EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR" tvg-logo="https://lo1.in/sp/casur.png" group-title="SPAIN",CANAL SUR
 http://iptv365.xyz:80/9188867323/7127412743/1233
 #EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="CANAL SUR ANDALUCÍA" tvg-logo="https://lo1.in/sp/casudlcia.png" group-title="SPAIN",CANAL SUR ANDALUCÍA
 http://iptv365.xyz:80/9188867323/7127412743/1234
-#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/sp/la1hd.png" group-title="SPAIN",LA 1
-http://iptv365.xyz:80/9188867323/7127412743/400218269
-#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://lo1.in/sp/la2.png" group-title="SPAIN",LA 2
-http://iptv365.xyz:80/9188867323/7127412743/1239
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/sp/sextahd.png" group-title="SPAIN",LA SEXTA
-http://iptv365.xyz:80/9188867323/7127412743/400218265
 #EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="https://lo1.in/sp/neox.png" group-title="SPAIN",NEOX
 http://iptv365.xyz:80/9188867323/7127412743/1226
 #EXTINF:-1 tvg-id="" tvg-name="TVG EUROPA" tvg-logo="https://lo1.in/sp/tvgerp.png" group-title="SPAIN",TVG EUROPA
 http://iptv365.xyz:80/9188867323/7127412743/1252
 #EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="https://lo1.in/sp/fxhd.png" group-title="SPAIN",FOX
 http://iptv365.xyz:80/9188867323/7127412743/400218262
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/sp/telecinhd.png" group-title="SPAIN",TELECINCO
-http://iptv365.xyz:80/9188867323/7127412743/400218266
 #EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="https://lo1.in/sp/xtrm.png" group-title="SPAIN",XTRM
 http://iptv365.xyz:80/9188867323/7127412743/1219
 #EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3CAT" tvg-logo="https://lo1.in/sp/tv3cat.png" group-title="SPAIN",TV3CAT
@@ -242,9 +242,7 @@ http://iptv365.xyz:80/9188867323/7127412743/1236
 http://iptv365.xyz:80/9188867323/7127412743/400218255
 #EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORÍA DE FICCIÓN" tvg-logo="https://lo1.in/sp/facdf.png" group-title="SPAIN",FACTORÍA DE FICCIÓN
 http://iptv365.xyz:80/9188867323/7127412743/1267
-#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="TELEMADRID" tvg-logo="https://lo1.in/sp/telemad.png" group-title="SPAIN",TELEMADRID
-http://iptv365.xyz:80/9188867323/7127412743/1253
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="EL TORO TV" tvg-logo="https://lo1.in/sp/eltoro.png" group-title="SPAIN SPORTS",EL TORO TV
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="EL TORO TV" tvg-logo="https://lo1.in/sp/eltoro.png" group-title="SPAIN",EL TORO TV
 http://iptv365.xyz:80/9188867323/7127412743/1241
 #EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="https://lo1.in/sp/horse.png" group-title="SPAIN",HORSE TV
 http://iptv365.xyz:80/9188867323/7127412743/1240
@@ -272,89 +270,89 @@ http://iptv365.xyz:80/9188867323/7127412743/8014
 http://iptv365.xyz:80/9188867323/7127412743/8016
 #EXTINF:-1 tvg-id="" tvg-name="CAZAVISION" tvg-logo="" group-title="SPAIN",CAZAVISION
 http://iptv365.xyz:80/9188867323/7127412743/18415
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦DAZN✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="SPAIN SPORTS",✦●✦DAZN✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦DAZN✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="SPAIN",✦●✦DAZN✦●✦
 http://iptv365.xyz:80/9188867323/7127412743/400479671
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN SPORTS",DAZN 1 ESPAÑA
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN",DAZN 1 ESPAÑA
 http://iptv365.xyz:80/9188867323/7127412743/400218246
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn2.png" group-title="SPAIN SPORTS",DAZN 2 ESPAÑA
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn2.png" group-title="SPAIN",DAZN 2 ESPAÑA
 http://iptv365.xyz:80/9188867323/7127412743/400218228
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn3.png" group-title="SPAIN SPORTS",DAZN 3 ESPAÑA
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn3.png" group-title="SPAIN",DAZN 3 ESPAÑA
 http://iptv365.xyz:80/9188867323/7127412743/400218227
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn4.png" group-title="SPAIN SPORTS",DAZN 4 ESPAÑA
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA" tvg-logo="https://lo1.in/sp/dazn4.png" group-title="SPAIN",DAZN 4 ESPAÑA
 http://iptv365.xyz:80/9188867323/7127412743/400218226
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN SPORTS",DAZN 1 ESPAÑA HD
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN",DAZN 1 ESPAÑA HD
 http://iptv365.xyz:80/9188867323/7127412743/165068
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN SPORTS",DAZN 2 ESPAÑA HD
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN",DAZN 2 ESPAÑA HD
 http://iptv365.xyz:80/9188867323/7127412743/165070
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="SPAIN SPORTS",DAZN 3 ESPAÑA HD
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="SPAIN",DAZN 3 ESPAÑA HD
 http://iptv365.xyz:80/9188867323/7127412743/379046
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="SPAIN SPORTS",DAZN 4 ESPAÑA HD
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="SPAIN",DAZN 4 ESPAÑA HD
 http://iptv365.xyz:80/9188867323/7127412743/379047
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN SPORTS",DAZN 1 ESPAÑA FHD
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN",DAZN 1 ESPAÑA FHD
 http://iptv365.xyz:80/9188867323/7127412743/360194
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN SPORTS",DAZN 2 ESPAÑA FHD
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN",DAZN 2 ESPAÑA FHD
 http://iptv365.xyz:80/9188867323/7127412743/360195
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="SPAIN SPORTS",DAZN 3 ESPAÑA FHD
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="SPAIN",DAZN 3 ESPAÑA FHD
 http://iptv365.xyz:80/9188867323/7127412743/379042
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="SPAIN SPORTS",DAZN 4 ESPAÑA FHD
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="SPAIN",DAZN 4 ESPAÑA FHD
 http://iptv365.xyz:80/9188867323/7127412743/379043
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN SPORTS",DAZN 1 ESPAÑA HEVC
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN",DAZN 1 ESPAÑA HEVC
 http://iptv365.xyz:80/9188867323/7127412743/360196
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN SPORTS",DAZN 2 ESPAÑA HEVC
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="SPAIN",DAZN 2 ESPAÑA HEVC
 http://iptv365.xyz:80/9188867323/7127412743/360197
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="SPAIN SPORTS",DAZN 3 ESPAÑA HEVC
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn3es.png" group-title="SPAIN",DAZN 3 ESPAÑA HEVC
 http://iptv365.xyz:80/9188867323/7127412743/379044
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="SPAIN SPORTS",DAZN 4 ESPAÑA HEVC
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn4es.png" group-title="SPAIN",DAZN 4 ESPAÑA HEVC
 http://iptv365.xyz:80/9188867323/7127412743/379045
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦DAZN THE LEAGUE✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="SPAIN SPORTS",✦●✦DAZN THE LEAGUE✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦DAZN THE LEAGUE✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="SPAIN",✦●✦DAZN THE LEAGUE✦●✦
 http://iptv365.xyz:80/9188867323/7127412743/400479670
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA
 http://iptv365.xyz:80/9188867323/7127412743/47212
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 1
 http://iptv365.xyz:80/9188867323/7127412743/21098
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 2
 http://iptv365.xyz:80/9188867323/7127412743/21099
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA
 http://iptv365.xyz:80/9188867323/7127412743/47212
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 1
 http://iptv365.xyz:80/9188867323/7127412743/21098
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 2
 http://iptv365.xyz:80/9188867323/7127412743/21099
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA  HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA  HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA  HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA  HD
 http://iptv365.xyz:80/9188867323/7127412743/47211
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 1 HD
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 1 HD
 http://iptv365.xyz:80/9188867323/7127412743/400440768
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 2 HD
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 2 HD
 http://iptv365.xyz:80/9188867323/7127412743/400440767
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 1 FHD
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 1 FHD
 http://iptv365.xyz:80/9188867323/7127412743/400440766
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN SPORTS",DAZN LA LIGA 2 FHD
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPAIN",DAZN LA LIGA 2 FHD
 http://iptv365.xyz:80/9188867323/7127412743/400440765
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦MOVISTAR CHAMPIONS LEAGUE✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="SPAIN SPORTS",✦●✦MOVISTAR CHAMPIONS LEAGUE✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦MOVISTAR CHAMPIONS LEAGUE✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="SPAIN",✦●✦MOVISTAR CHAMPIONS LEAGUE✦●✦
 http://iptv365.xyz:80/9188867323/7127412743/400479669
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M+ LIGA DE CAMPEONES 1" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 1
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M+ LIGA DE CAMPEONES 1" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 1
 http://iptv365.xyz:80/9188867323/7127412743/400218282
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="https://lo1.in/sp/sender.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 3
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="https://lo1.in/sp/sender.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 3
 http://iptv365.xyz:80/9188867323/7127412743/400230643
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 2
 http://iptv365.xyz:80/9188867323/7127412743/400230644
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="https://lo1.in/sp/eusp9.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 4
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="M+ LIGA DE CAMPEONES 4" tvg-logo="https://lo1.in/sp/eusp9.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 4
 http://iptv365.xyz:80/9188867323/7127412743/400218278
-#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="https://lo1.in/sp/eusp8.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 5
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="M+ LIGA DE CAMPEONES 5" tvg-logo="https://lo1.in/sp/eusp8.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 5
 http://iptv365.xyz:80/9188867323/7127412743/400218277
-#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="M+ LIGA DE CAMPEONES 6" tvg-logo="https://lo1.in/sp/eusp7.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 6
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="M+ LIGA DE CAMPEONES 6" tvg-logo="https://lo1.in/sp/eusp7.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 6
 http://iptv365.xyz:80/9188867323/7127412743/400218276
-#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="M+ LIGA DE CAMPEONES 7" tvg-logo="https://lo1.in/sp/eusp6.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 7
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="M+ LIGA DE CAMPEONES 7" tvg-logo="https://lo1.in/sp/eusp6.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 7
 http://iptv365.xyz:80/9188867323/7127412743/400218275
-#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="M+ LIGA DE CAMPEONES 8" tvg-logo="https://lo1.in/sp/eusp5.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 8
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="M+ LIGA DE CAMPEONES 8" tvg-logo="https://lo1.in/sp/eusp5.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 8
 http://iptv365.xyz:80/9188867323/7127412743/400218274
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 9" tvg-logo="https://lo1.in/sp/eusp4.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 9
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 9" tvg-logo="https://lo1.in/sp/eusp4.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 9
 http://iptv365.xyz:80/9188867323/7127412743/400218273
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 10" tvg-logo="https://lo1.in/sp/eusp3.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 10
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 10" tvg-logo="https://lo1.in/sp/eusp3.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 10
 http://iptv365.xyz:80/9188867323/7127412743/400218272
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 11" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 11
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 11" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 11
 http://iptv365.xyz:80/9188867323/7127412743/1245
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 12" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 12
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 12" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 12
 http://iptv365.xyz:80/9188867323/7127412743/1244
-#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 13" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="SPAIN SPORTS",M+ LIGA DE CAMPEONES 13
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 13" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="SPAIN",M+ LIGA DE CAMPEONES 13
 http://iptv365.xyz:80/9188867323/7127412743/18406
